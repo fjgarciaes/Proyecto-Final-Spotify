@@ -1,0 +1,703 @@
+,artist_name,track_name,year,energy,danceability,loudness,acousticness,speechiness,liveness,valence,bpm,duration,info
+0,Train,"Hey, Soul Sister",2010,0.089,0.067,-0.004,0.00019,0.0004,0.0008,0.08,0.097,217.0,"Train-Hey, Soul Sister-2010"
+1,Eminem,Love The Way You Lie,2010,0.093,0.075,-0.005,0.00024,0.0023,0.0052,0.064,0.087,263.0,Eminem-Love The Way You Lie-2010
+2,Kesha,TiK ToK,2010,0.084,0.076,-0.003,1e-04,0.0014,0.0029,0.071,0.12,200.0,Kesha-TiK ToK-2010
+3,Lady Gaga,Bad Romance,2010,0.092,0.07,-0.004,0.0,0.0004,0.0008,0.071,0.119,295.0,Lady Gaga-Bad Romance-2010
+4,Bruno Mars,Just the Way You Are,2010,0.084,0.064,-0.005,2e-05,0.0004,0.0009,0.043,0.109,221.0,Bruno Mars-Just the Way You Are-2010
+5,Justin Bieber,Baby,2010,0.086,0.073,-0.005,4e-05,0.0014,0.0011,0.054,0.065,214.0,Justin Bieber-Baby-2010
+6,Taio Cruz,Dynamite,2010,0.078,0.075,-0.004,0.0,0.0009,0.0004,0.082,0.12,203.0,Taio Cruz-Dynamite-2010
+7,OneRepublic,Secrets,2010,0.076,0.052,-0.006,7e-05,0.0004,0.0012,0.038,0.148,225.0,OneRepublic-Secrets-2010
+8,Alicia Keys,Empire State of Mind (Part II) Broken Down,2010,0.037,0.048,-0.008,0.00074,0.0003,0.0012,0.014,0.093,216.0,Alicia Keys-Empire State of Mind (Part II) Broken Down-2010
+9,Rihanna,Only Girl (In The World),2010,0.072,0.079,-0.004,0.00013,0.0004,0.0007,0.061,0.126,235.0,Rihanna-Only Girl (In The World)-2010
+10,Flo Rida,Club Can't Handle Me (feat. David Guetta),2010,0.087,0.062,-0.004,3e-05,0.0003,0.0006,0.047,0.128,235.0,Flo Rida-Club Can't Handle Me (feat. David Guetta)-2010
+11,Bruno Mars,Marry You,2010,0.083,0.062,-0.005,0.00033,0.0004,0.001,0.048,0.145,230.0,Bruno Mars-Marry You-2010
+12,Mike Posner,Cooler Than Me - Single Mix,2010,0.082,0.077,-0.005,0.00018,0.0005,0.007,0.063,0.13,213.0,Mike Posner-Cooler Than Me - Single Mix-2010
+13,Lady Gaga,Telephone,2010,0.083,0.083,-0.006,1e-05,0.0004,0.0011,0.071,0.122,221.0,Lady Gaga-Telephone-2010
+14,Far East Movement,Like A G6,2010,0.084,0.044,-0.008,1e-05,0.0045,0.0012,0.078,0.125,217.0,Far East Movement-Like A G6-2010
+15,Usher,OMG (feat. will.i.am),2010,0.075,0.078,-0.006,0.0002,0.0003,0.0036,0.033,0.13,269.0,Usher-OMG (feat. will.i.am)-2010
+16,Sean Kingston,Eenie Meenie,2010,0.061,0.072,-0.004,5e-05,0.0003,0.0011,0.083,0.121,202.0,Sean Kingston-Eenie Meenie-2010
+17,The Black Eyed Peas,The Time (Dirty Bit),2010,0.081,0.082,-0.008,7e-05,0.0007,0.006,0.044,0.128,308.0,The Black Eyed Peas-The Time (Dirty Bit)-2010
+18,Lady Gaga,Alejandro,2010,0.08,0.063,-0.007,0.0,0.0005,0.0036,0.037,0.099,274.0,Lady Gaga-Alejandro-2010
+19,Kesha,Your Love Is My Drug,2010,0.061,0.083,-0.004,1e-05,0.001,0.0009,0.076,0.12,187.0,Kesha-Your Love Is My Drug-2010
+20,The Black Eyed Peas,Meet Me Halfway,2010,0.063,0.08,-0.007,0.0,0.0007,0.0032,0.04,0.13,284.0,The Black Eyed Peas-Meet Me Halfway-2010
+21,Adam Lambert,Whataya Want from Me,2010,0.068,0.044,-0.005,1e-05,0.0005,0.0006,0.045,0.186,227.0,Adam Lambert-Whataya Want from Me-2010
+22,Kesha,Take It Off,2010,0.068,0.073,-0.005,0.0,0.0003,0.0009,0.074,0.125,215.0,Kesha-Take It Off-2010
+23,Maroon 5,Misery,2010,0.081,0.07,-0.005,0.0,0.0004,0.0022,0.073,0.103,216.0,Maroon 5-Misery-2010
+24,OneRepublic,All The Right Moves,2010,0.095,0.053,-0.004,0.00026,0.0005,0.0028,0.065,0.146,238.0,OneRepublic-All The Right Moves-2010
+25,Neon Trees,Animal,2010,0.083,0.048,-0.006,0.0,0.0004,0.0038,0.074,0.148,212.0,Neon Trees-Animal-2010
+26,Selena Gomez & The Scene,Naturally,2010,0.09,0.061,-0.005,2e-05,0.0005,0.0005,0.088,0.133,203.0,Selena Gomez & The Scene-Naturally-2010
+27,Enrique Iglesias,I Like It,2010,0.094,0.065,-0.003,2e-05,0.0009,0.0006,0.073,0.129,231.0,Enrique Iglesias-I Like It-2010
+28,Katy Perry,Teenage Dream,2010,0.08,0.072,-0.005,2e-05,0.0004,0.0013,0.059,0.12,228.0,Katy Perry-Teenage Dream-2010
+29,Katy Perry,California Gurls,2010,0.075,0.079,-0.004,0.0,0.0005,0.0018,0.04,0.125,235.0,Katy Perry-California Gurls-2010
+30,Britney Spears,3,2010,0.071,0.07,-0.002,5e-05,0.0005,0.0014,0.079,0.135,213.0,Britney Spears-3-2010
+31,3OH!3,My First Kiss - feat. Ke$ha,2010,0.089,0.068,-0.004,1e-05,0.0008,0.0036,0.083,0.138,192.0,3OH!3-My First Kiss - feat. Ke$ha-2010
+32,Kesha,Blah Blah Blah (feat. 3OH!3),2010,0.084,0.075,-0.003,8e-05,0.0012,0.0042,0.052,0.12,172.0,Kesha-Blah Blah Blah (feat. 3OH!3)-2010
+33,The Black Eyed Peas,Imma Be,2010,0.052,0.06,-0.007,0.00018,0.0037,0.0031,0.041,0.092,258.0,The Black Eyed Peas-Imma Be-2010
+34,Alicia Keys,Try Sleeping with a Broken Heart,2010,0.082,0.05,-0.005,0.00016,0.0011,0.0013,0.055,0.111,249.0,Alicia Keys-Try Sleeping with a Broken Heart-2010
+35,David Guetta,Sexy Bitch (feat. Akon),2010,0.063,0.081,-0.005,8e-05,0.0005,0.0013,0.08,0.13,196.0,David Guetta-Sexy Bitch (feat. Akon)-2010
+36,Christina Aguilera,Bound To You - Burlesque Original Motion Picture Soundtrack,2010,0.041,0.029,-0.005,0.00083,0.0003,0.0013,0.007,0.164,264.0,Christina Aguilera-Bound To You - Burlesque Original Motion Picture Soundtrack-2010
+37,Adam Lambert,If I Had You,2010,0.091,0.065,-0.004,1e-05,0.0011,0.0037,0.079,0.131,228.0,Adam Lambert-If I Had You-2010
+38,The Black Eyed Peas,Rock That Body,2010,0.091,0.072,-0.006,2e-05,0.001,0.0043,0.084,0.125,269.0,The Black Eyed Peas-Rock That Body-2010
+39,Florence + The Machine,Dog Days Are Over,2010,0.081,0.05,-0.005,3e-05,0.0009,0.0012,0.026,0.15,253.0,Florence + The Machine-Dog Days Are Over-2010
+40,Christina Aguilera,Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack,2010,0.085,0.051,-0.004,0.00047,0.0027,0.0012,0.072,0.15,185.0,Christina Aguilera-Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack-2010
+41,Alicia Keys,Doesn't Mean Anything,2010,0.041,0.071,-0.007,4e-05,0.0003,0.001,0.01,0.104,273.0,Alicia Keys-Doesn't Mean Anything-2010
+42,Rihanna,Hard,2010,0.075,0.031,-0.004,1e-05,0.0011,0.0065,0.016,0.182,251.0,Rihanna-Hard-2010
+43,Shakira,Loca,2010,0.087,0.08,-0.004,0.00019,0.0007,0.0009,0.085,0.112,193.0,Shakira-Loca-2010
+44,Christina Aguilera,You Lost Me,2010,0.039,0.023,-0.006,0.00085,0.0004,0.0014,0.007,0.043,257.0,Christina Aguilera-You Lost Me-2010
+45,Christina Aguilera,Not Myself Tonight,2010,0.081,0.076,-0.005,0.0,0.0004,0.0056,0.054,0.12,186.0,Christina Aguilera-Not Myself Tonight-2010
+46,Tinie Tempah,Written in the Stars (feat. Eric Turner),2010,0.095,0.064,-0.004,6e-05,0.0007,0.0018,0.057,0.091,220.0,Tinie Tempah-Written in the Stars (feat. Eric Turner)-2010
+47,Usher,DJ Got Us Fallin' In Love (feat. Pitbull),2010,0.086,0.066,-0.003,3e-05,0.0011,0.0008,0.065,0.12,221.0,Usher-DJ Got Us Fallin' In Love (feat. Pitbull)-2010
+48,T.I.,Castle Walls (feat. Christina Aguilera),2010,0.086,0.045,-0.005,7e-05,0.0039,0.0026,0.058,0.08,329.0,T.I.-Castle Walls (feat. Christina Aguilera)-2010
+49,Taio Cruz,Break Your Heart,2010,0.09,0.067,-0.005,0.0,0.0003,0.0008,0.063,0.122,186.0,Taio Cruz-Break Your Heart-2010
+50,Martin Solveig,Hello,2010,0.098,0.067,-0.003,1e-05,0.0003,0.001,0.045,0.128,191.0,Martin Solveig-Hello-2010
+51,Christina Perri,A Thousand Years,2011,0.041,0.042,-0.007,0.00031,0.0003,0.0011,0.016,0.139,285.0,Christina Perri-A Thousand Years-2011
+52,Adele,Someone Like You,2011,0.033,0.056,-0.008,0.00089,0.0003,0.001,0.028,0.135,285.0,Adele-Someone Like You-2011
+53,Pitbull,Give Me Everything,2011,0.094,0.067,-0.003,0.00019,0.0016,0.003,0.053,0.129,252.0,Pitbull-Give Me Everything-2011
+54,Bruno Mars,Just the Way You Are,2011,0.084,0.064,-0.005,2e-05,0.0004,0.0009,0.043,0.109,221.0,Bruno Mars-Just the Way You Are-2011
+55,Adele,Rolling in the Deep,2011,0.076,0.073,-0.005,0.00013,0.0003,0.0005,0.052,0.105,228.0,Adele-Rolling in the Deep-2011
+56,Beyoncé,Run the World (Girls),2011,0.09,0.073,-0.004,0.0,0.0014,0.0037,0.076,0.127,236.0,Beyoncé-Run the World (Girls)-2011
+57,Maroon 5,Moves Like Jagger - Studio Recording From The Voice Performance,2011,0.076,0.072,-0.004,1e-05,0.0005,0.0032,0.062,0.128,201.0,Maroon 5-Moves Like Jagger - Studio Recording From The Voice Performance-2011
+58,Beyoncé,Love On Top,2011,0.075,0.065,-0.005,8e-05,0.0009,0.006,0.065,0.094,267.0,Beyoncé-Love On Top-2011
+59,Bruno Mars,Grenade,2011,0.056,0.071,-0.007,0.00015,0.0006,0.0012,0.023,0.11,223.0,Bruno Mars-Grenade-2011
+60,Hot Chelle Rae,Tonight Tonight,2011,0.078,0.069,-0.005,8e-05,0.0012,0.0016,0.081,0.1,200.0,Hot Chelle Rae-Tonight Tonight-2011
+61,Avril Lavigne,What the Hell,2011,0.093,0.058,-0.004,0.0,0.0005,0.0014,0.088,0.15,221.0,Avril Lavigne-What the Hell-2011
+62,Lady Gaga,Born This Way,2011,0.083,0.059,-0.005,0.0,0.0016,0.0033,0.049,0.124,260.0,Lady Gaga-Born This Way-2011
+63,Kanye West,Monster,2011,0.069,0.063,-0.006,0.0,0.002,0.0067,0.01,0.125,379.0,Kanye West-Monster-2011
+64,Bruno Mars,Marry You,2011,0.083,0.062,-0.005,0.00033,0.0004,0.001,0.048,0.145,230.0,Bruno Mars-Marry You-2011
+65,Beyoncé,Best Thing I Never Had,2011,0.065,0.055,-0.004,0.00014,0.0003,0.0009,0.03,0.099,254.0,Beyoncé-Best Thing I Never Had-2011
+66,LMFAO,Party Rock Anthem,2011,0.074,0.075,-0.004,2e-05,0.0016,0.0027,0.035,0.13,262.0,LMFAO-Party Rock Anthem-2011
+67,Kesha,We R Who We R,2011,0.082,0.074,-0.005,1e-05,0.0004,0.0012,0.065,0.12,205.0,Kesha-We R Who We R-2011
+68,Jessie J,Price Tag,2011,0.083,0.064,-0.004,3e-05,0.0018,0.0027,0.068,0.175,223.0,Jessie J-Price Tag-2011
+69,OneRepublic,Good Life,2011,0.069,0.063,-0.008,8e-05,0.0005,0.0013,0.065,0.095,253.0,OneRepublic-Good Life-2011
+70,The Black Eyed Peas,Just Cant Get Enough,2011,0.063,0.066,-0.009,0.00019,0.0018,0.0011,0.026,0.094,219.0,The Black Eyed Peas-Just Cant Get Enough-2011
+71,Jennifer Lopez,On The Floor,2011,0.078,0.073,-0.005,0.00011,0.0005,0.0007,0.057,0.13,285.0,Jennifer Lopez-On The Floor-2011
+72,Rihanna,What's My Name?,2011,0.079,0.069,-0.003,0.00023,0.0007,0.0008,0.058,0.1,263.0,Rihanna-What's My Name?-2011
+73,Chris Brown,Yeah 3x,2011,0.088,0.071,-0.003,0.0,0.0004,0.0009,0.07,0.13,242.0,Chris Brown-Yeah 3x-2011
+74,David Guetta,Without You (feat. Usher),2011,0.061,0.061,-0.004,0.00023,0.0003,0.0016,0.04,0.128,208.0,David Guetta-Without You (feat. Usher)-2011
+75,LMFAO,Sexy And I Know It,2011,0.086,0.071,-0.004,1e-04,0.0032,0.0019,0.08,0.13,199.0,LMFAO-Sexy And I Know It-2011
+76,Lady Gaga,The Edge Of Glory,2011,0.077,0.058,-0.006,0.0,0.0004,0.0011,0.036,0.128,321.0,Lady Gaga-The Edge Of Glory-2011
+77,Katy Perry,E.T.,2011,0.087,0.062,-0.005,2e-05,0.0018,0.0037,0.076,0.152,230.0,Katy Perry-E.T.-2011
+78,Britney Spears,Till the World Ends,2011,0.071,0.069,-0.006,2e-05,0.0007,0.002,0.045,0.132,238.0,Britney Spears-Till the World Ends-2011
+79,Britney Spears,I Wanna Go,2011,0.055,0.07,-0.007,0.0,0.0004,0.0033,0.079,0.13,210.0,Britney Spears-I Wanna Go-2011
+80,Kesha,Blow,2011,0.073,0.075,-0.004,0.0,0.0004,0.0007,0.081,0.12,220.0,Kesha-Blow-2011
+81,Lady Gaga,You And I,2011,0.07,0.052,-0.005,9e-05,0.0005,0.0009,0.052,0.127,307.0,Lady Gaga-You And I-2011
+82,Lady Gaga,Judas,2011,0.093,0.066,-0.004,0.0,0.0007,0.0027,0.053,0.131,249.0,Lady Gaga-Judas-2011
+83,Enrique Iglesias,Tonight (I'm Fuckin' You),2011,0.089,0.065,-0.004,3e-05,0.0005,0.0012,0.032,0.126,232.0,Enrique Iglesias-Tonight (I'm Fuckin' You)-2011
+84,Mike Posner,Please Don't Go,2011,0.088,0.07,-0.004,0.0,0.0003,0.0013,0.066,0.12,197.0,Mike Posner-Please Don't Go-2011
+85,Rihanna,We Found Love,2011,0.077,0.073,-0.004,3e-05,0.0004,0.0011,0.06,0.128,215.0,Rihanna-We Found Love-2011
+86,Lady Gaga,Marry The Night,2011,0.088,0.061,-0.004,0.0,0.0006,0.0046,0.038,0.131,265.0,Lady Gaga-Marry The Night-2011
+87,Beyoncé,1+1,2011,0.038,0.03,-0.007,0.00038,0.0003,0.0007,0.026,0.063,274.0,Beyoncé-1+1-2011
+88,Britney Spears,Hold It Against Me,2011,0.072,0.065,-0.005,1e-05,0.0004,0.0024,0.039,0.133,229.0,Britney Spears-Hold It Against Me-2011
+89,Jennifer Lopez,I'm Into You,2011,0.075,0.059,-0.004,2e-05,0.0014,0.0008,0.07,0.084,200.0,Jennifer Lopez-I'm Into You-2011
+90,Jennifer Lopez,Papi,2011,0.081,0.071,-0.005,0.00013,0.0006,0.0037,0.089,0.12,223.0,Jennifer Lopez-Papi-2011
+91,Rihanna,Cheers (Drink To That),2011,0.091,0.058,-0.004,2e-05,0.0004,0.0029,0.073,0.08,262.0,Rihanna-Cheers (Drink To That)-2011
+92,Rihanna,S&M Remix,2011,0.081,0.082,-0.003,5e-05,0.0005,0.0005,0.089,0.128,257.0,Rihanna-S&M Remix-2011
+93,Tinie Tempah,Written in the Stars (feat. Eric Turner),2011,0.095,0.064,-0.004,6e-05,0.0007,0.0018,0.057,0.091,220.0,Tinie Tempah-Written in the Stars (feat. Eric Turner)-2011
+94,Christina Perri,Jar of Hearts,2011,0.035,0.035,-0.006,0.00073,0.0003,0.0012,0.009,0.075,247.0,Christina Perri-Jar of Hearts-2011
+95,T.I.,Castle Walls (feat. Christina Aguilera),2011,0.086,0.045,-0.005,7e-05,0.0039,0.0026,0.058,0.08,329.0,T.I.-Castle Walls (feat. Christina Aguilera)-2011
+96,Sleeping At Last,Turning Page,2011,0.038,0.03,-0.008,0.00091,0.0003,0.0011,0.019,0.125,255.0,Sleeping At Last-Turning Page-2011
+97,Nicki Minaj,Super Bass,2011,0.074,0.077,-0.007,6e-05,0.0023,0.004,0.059,0.127,201.0,Nicki Minaj-Super Bass-2011
+98,P!nk,Raise Your Glass,2011,0.064,0.068,-0.007,0.0,0.0012,0.0012,0.056,0.122,208.0,P!nk-Raise Your Glass-2011
+99,Jennifer Lopez,Invading My Mind,2011,0.088,0.073,-0.004,2e-05,0.0007,0.0032,0.069,0.129,201.0,Jennifer Lopez-Invading My Mind-2011
+100,Nicki Minaj,Moment 4 Life - Album Version (Edited),2011,0.088,0.05,-0.004,0.00039,0.0038,0.0022,0.037,0.13,279.0,Nicki Minaj-Moment 4 Life - Album Version (Edited)-2011
+101,Katy Perry,Last Friday Night (T.G.I.F.),2011,0.081,0.065,-0.004,0.0,0.0004,0.0067,0.072,0.126,231.0,Katy Perry-Last Friday Night (T.G.I.F.)-2011
+102,Katy Perry,Firework,2011,0.083,0.064,-0.005,0.00014,0.0005,0.0011,0.065,0.124,228.0,Katy Perry-Firework-2011
+103,Nicki Minaj,Muny - Album Version (Edited),2011,0.072,0.08,-0.005,0.00056,0.0033,0.0019,0.053,0.098,227.0,Nicki Minaj-Muny - Album Version (Edited)-2011
+104,David Guetta,Titanium (feat. Sia),2012,0.079,0.06,-0.004,7e-05,0.001,0.0013,0.03,0.126,245.0,David Guetta-Titanium (feat. Sia)-2012
+105,Bruno Mars,Locked Out of Heaven,2012,0.07,0.073,-0.004,5e-05,0.0004,0.0031,0.087,0.144,233.0,Bruno Mars-Locked Out of Heaven-2012
+106,Coldplay,Paradise,2012,0.059,0.045,-0.007,5e-05,0.0003,0.0008,0.02,0.14,279.0,Coldplay-Paradise-2012
+107,Maroon 5,Payphone,2012,0.075,0.074,-0.005,2e-05,0.0004,0.0029,0.055,0.11,231.0,Maroon 5-Payphone-2012
+108,One Direction,What Makes You Beautiful,2012,0.079,0.073,-0.002,1e-05,0.0007,0.0006,0.089,0.125,200.0,One Direction-What Makes You Beautiful-2012
+109,Taylor Swift,I Knew You Were Trouble.,2012,0.047,0.062,-0.007,0.0,0.0004,0.0003,0.068,0.077,220.0,Taylor Swift-I Knew You Were Trouble.-2012
+110,Carly Rae Jepsen,Call Me Maybe,2012,0.058,0.078,-0.007,1e-05,0.0004,0.0011,0.066,0.12,193.0,Carly Rae Jepsen-Call Me Maybe-2012
+111,Selena Gomez & The Scene,Love You Like A Love Song,2012,0.068,0.086,-0.004,8e-05,0.0005,0.0007,0.092,0.117,188.0,Selena Gomez & The Scene-Love You Like A Love Song-2012
+112,Adele,Set Fire to the Rain,2012,0.068,0.061,-0.004,0.0,0.0003,0.0013,0.047,0.108,242.0,Adele-Set Fire to the Rain-2012
+113,Taylor Swift,We Are Never Ever Getting Back Together,2012,0.068,0.063,-0.006,1e-05,0.0009,0.0012,0.075,0.086,193.0,Taylor Swift-We Are Never Ever Getting Back Together-2012
+114,Kelly Clarkson,Stronger (What Doesn't Kill You),2012,0.094,0.056,-0.004,5e-05,0.0005,0.0011,0.068,0.116,222.0,Kelly Clarkson-Stronger (What Doesn't Kill You)-2012
+115,P!nk,Try,2012,0.063,0.067,-0.007,0.0,0.0003,0.0009,0.055,0.104,248.0,P!nk-Try-2012
+116,Nicki Minaj,Starships,2012,0.072,0.075,-0.002,0.00014,0.0008,0.0025,0.075,0.125,211.0,Nicki Minaj-Starships-2012
+117,Maroon 5,One More Night,2012,0.082,0.072,-0.003,6e-05,0.0003,0.0008,0.062,0.093,220.0,Maroon 5-One More Night-2012
+118,Owl City,Good Time,2012,0.087,0.056,-0.004,2e-05,0.0014,0.0037,0.068,0.126,206.0,Owl City-Good Time-2012
+119,The Wanted,Glad You Came,2012,0.085,0.072,-0.004,3e-05,0.0006,0.0011,0.045,0.127,198.0,The Wanted-Glad You Came-2012
+120,Justin Bieber,Beauty And A Beat,2012,0.084,0.06,-0.005,0.0,0.0006,0.0007,0.053,0.128,228.0,Justin Bieber-Beauty And A Beat-2012
+121,Pitbull,International Love,2012,0.086,0.067,-0.003,1e-05,0.0005,0.0034,0.065,0.12,227.0,Pitbull-International Love-2012
+122,fun.,Some Nights,2012,0.074,0.067,-0.007,2e-05,0.0005,0.0009,0.039,0.108,277.0,fun.-Some Nights-2012
+123,Justin Bieber,Boyfriend,2012,0.055,0.072,-0.006,4e-05,0.0005,0.0013,0.033,0.097,171.0,Justin Bieber-Boyfriend-2012
+124,Katy Perry,Part Of Me,2012,0.092,0.068,-0.005,0.0,0.0004,0.0007,0.077,0.13,216.0,Katy Perry-Part Of Me-2012
+125,Jessie J,Domino,2012,0.055,0.076,-0.005,1e-05,0.0003,0.0004,0.078,0.127,232.0,Jessie J-Domino-2012
+126,Rihanna,Where Have You Been,2012,0.085,0.072,-0.006,0.0,0.0009,0.0022,0.044,0.128,243.0,Rihanna-Where Have You Been-2012
+127,Katy Perry,Wide Awake,2012,0.068,0.051,-0.005,7e-05,0.0004,0.0039,0.057,0.16,221.0,Katy Perry-Wide Awake-2012
+128,Katy Perry,The One That Got Away,2012,0.08,0.069,-0.004,0.0,0.0004,0.0016,0.088,0.134,227.0,Katy Perry-The One That Got Away-2012
+129,Jennifer Lopez,Dance Again,2012,0.086,0.079,-0.005,2e-05,0.0007,0.001,0.071,0.128,237.0,Jennifer Lopez-Dance Again-2012
+130,Chris Brown,Turn Up the Music,2012,0.084,0.059,-0.006,0.0,0.001,0.0016,0.064,0.13,228.0,Chris Brown-Turn Up the Music-2012
+131,Ellie Goulding,Lights - Single Version,2012,0.08,0.068,-0.006,3e-05,0.0004,0.0013,0.078,0.12,211.0,Ellie Goulding-Lights - Single Version-2012
+132,fun.,We Are Young (feat. Janelle Monáe),2012,0.064,0.038,-0.006,2e-05,0.0008,0.0008,0.074,0.184,251.0,fun.-We Are Young (feat. Janelle Monáe)-2012
+133,Rihanna,Diamonds,2012,0.071,0.056,-0.005,0.0,0.0005,0.0011,0.039,0.092,225.0,Rihanna-Diamonds-2012
+134,Pitbull,Don't Stop the Party (feat. TJR),2012,0.096,0.072,-0.004,1e-05,0.0009,0.0038,0.095,0.127,206.0,Pitbull-Don't Stop the Party (feat. TJR)-2012
+135,Rihanna,You Da One,2012,0.072,0.07,-0.005,0.0005,0.0004,0.0013,0.086,0.127,200.0,Rihanna-You Da One-2012
+136,Gym Class Heroes,Stereo Hearts (feat. Adam Levine),2012,0.08,0.065,-0.003,3e-05,0.001,0.0027,0.08,0.09,211.0,Gym Class Heroes-Stereo Hearts (feat. Adam Levine)-2012
+137,Bruno Mars,It Will Rain,2012,0.084,0.058,-0.007,0.00034,0.0005,0.0008,0.048,0.15,258.0,Bruno Mars-It Will Rain-2012
+138,P!nk,Blow Me (One Last Kiss),2012,0.092,0.06,-0.003,0.0,0.0004,0.0025,0.075,0.114,256.0,P!nk-Blow Me (One Last Kiss)-2012
+139,Kelly Clarkson,Underneath the Tree,2013,0.081,0.051,-0.005,0.0,0.0005,0.0021,0.069,0.16,230.0,Kelly Clarkson-Underneath the Tree-2013
+140,Avicii,Wake Me Up,2013,0.078,0.053,-0.006,0.0,0.0005,0.0016,0.064,0.124,247.0,Avicii-Wake Me Up-2013
+141,One Direction,Story of My Life,2013,0.066,0.06,-0.006,0.00023,0.0005,0.0012,0.029,0.121,245.0,One Direction-Story of My Life-2013
+142,P!nk,Just Give Me a Reason (feat. Nate Ruess),2013,0.055,0.078,-0.007,0.00035,0.0005,0.0013,0.044,0.095,243.0,P!nk-Just Give Me a Reason (feat. Nate Ruess)-2013
+143,The Script,Hall of Fame,2013,0.087,0.042,-0.004,7e-05,0.0006,0.0012,0.063,0.085,203.0,The Script-Hall of Fame-2013
+144,Katy Perry,Roar,2013,0.077,0.055,-0.005,0.0,0.0004,0.0035,0.046,0.18,224.0,Katy Perry-Roar-2013
+145,Miley Cyrus,We Can't Stop,2013,0.062,0.061,-0.006,1e-05,0.0003,0.0037,0.048,0.08,231.0,Miley Cyrus-We Can't Stop-2013
+146,Swedish House Mafia,Don't You Worry Child - Radio Edit,2013,0.084,0.061,-0.003,0.00011,0.0005,0.0012,0.044,0.129,213.0,Swedish House Mafia-Don't You Worry Child - Radio Edit-2013
+147,Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,2013,0.081,0.079,-0.009,4e-05,0.0004,0.001,0.086,0.116,248.0,Daft Punk-Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit-2013
+148,Miley Cyrus,Wrecking Ball,2013,0.042,0.053,-0.006,0.00041,0.0003,0.0011,0.035,0.12,221.0,Miley Cyrus-Wrecking Ball-2013
+149,James Arthur,Impossible,2013,0.07,0.038,-0.005,0.00014,0.0009,0.0011,0.03,0.17,209.0,James Arthur-Impossible-2013
+150,Robin Thicke,Blurred Lines,2013,0.06,0.085,-0.005,0.0,0.0004,0.0008,0.084,0.12,264.0,Robin Thicke-Blurred Lines-2013
+151,Demi Lovato,Heart Attack,2013,0.079,0.05,-0.005,7e-05,0.001,0.0024,0.05,0.174,211.0,Demi Lovato-Heart Attack-2013
+152,Taylor Swift,We Are Never Ever Getting Back Together,2013,0.068,0.063,-0.006,1e-05,0.0009,0.0012,0.075,0.086,193.0,Taylor Swift-We Are Never Ever Getting Back Together-2013
+153,Kesha,Die Young,2013,0.07,0.071,-0.005,0.0,0.0005,0.0022,0.08,0.128,212.0,Kesha-Die Young-2013
+154,Zedd,Clarity,2013,0.078,0.051,-0.003,4e-05,0.0007,0.0007,0.018,0.128,271.0,Zedd-Clarity-2013
+155,Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,2013,0.081,0.057,-0.006,2e-05,0.0006,0.0013,0.011,0.126,215.0,Lana Del Rey-Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix-2013
+156,Calvin Harris,Under Control,2013,0.092,0.054,-0.003,0.00013,0.0008,0.0012,0.051,0.126,184.0,Calvin Harris-Under Control-2013
+157,Neon Trees,Everybody Talks,2013,0.092,0.047,-0.004,0.0,0.0006,0.0031,0.073,0.155,177.0,Neon Trees-Everybody Talks-2013
+158,Drake,"Hold On, We're Going Home",2013,0.041,0.077,-0.007,0.0,0.001,0.0007,0.029,0.1,228.0,"Drake-Hold On, We're Going Home-2013"
+159,One Direction,Best Song Ever,2013,0.088,0.065,-0.003,2e-05,0.0005,0.0008,0.049,0.118,200.0,One Direction-Best Song Ever-2013
+160,One Direction,Kiss You,2013,0.093,0.063,-0.003,2e-05,0.0006,0.0032,0.091,0.09,183.0,One Direction-Kiss You-2013
+161,Calvin Harris,Sweet Nothing (feat. Florence Welch),2013,0.093,0.057,-0.004,0.0002,0.0011,0.0006,0.058,0.128,213.0,Calvin Harris-Sweet Nothing (feat. Florence Welch)-2013
+162,Daft Punk,Lose Yourself to Dance,2013,0.066,0.083,-0.008,8e-05,0.0006,0.0008,0.067,0.1,354.0,Daft Punk-Lose Yourself to Dance-2013
+163,Britney Spears,Work Bitch,2013,0.082,0.063,-0.007,0.00016,0.0016,0.0007,0.085,0.128,248.0,Britney Spears-Work Bitch-2013
+164,Sara Bareilles,Brave,2013,0.084,0.055,-0.004,1e-05,0.0005,0.0004,0.076,0.185,221.0,Sara Bareilles-Brave-2013
+165,Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),2013,0.093,0.063,-0.004,3e-05,0.0008,0.001,0.088,0.146,258.0,Macklemore & Ryan Lewis-Can't Hold Us (feat. Ray Dalton)-2013
+166,Pitbull,Feel This Moment (feat. Christina Aguilera),2013,0.076,0.067,-0.004,4e-05,0.0016,0.0034,0.054,0.136,230.0,Pitbull-Feel This Moment (feat. Christina Aguilera)-2013
+167,Labrinth,Beneath Your Beautiful,2013,0.052,0.056,-0.006,0.00023,0.0004,0.001,0.023,0.084,272.0,Labrinth-Beneath Your Beautiful-2013
+168,Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),2013,0.068,0.066,-0.007,0.00025,0.0004,0.0037,0.025,0.125,252.0,Ne-Yo-Let Me Love You (Until You Learn To Love Yourself)-2013
+169,Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),2013,0.053,0.078,-0.007,6e-05,0.0029,0.0005,0.066,0.095,236.0,Macklemore & Ryan Lewis-Thrift Shop (feat. Wanz)-2013
+170,OneRepublic,If I Lose Myself - Alesso vs OneRepublic,2013,0.075,0.052,-0.006,0.00026,0.0004,0.0014,0.016,0.126,215.0,OneRepublic-If I Lose Myself - Alesso vs OneRepublic-2013
+171,Ariana Grande,The Way,2013,0.088,0.065,-0.003,0.00029,0.0011,0.0008,0.086,0.082,227.0,Ariana Grande-The Way-2013
+172,Justin Timberlake,Suit & Tie,2013,0.06,0.08,-0.004,1e-04,0.0022,0.0016,0.036,0.102,326.0,Justin Timberlake-Suit & Tie-2013
+173,will.i.am,#thatPOWER,2013,0.061,0.08,-0.006,0.0,0.0006,0.0007,0.04,0.128,280.0,will.i.am-#thatPOWER-2013
+174,Icona Pop,I Love It (feat. Charli XCX),2013,0.091,0.071,-0.003,1e-05,0.0003,0.0015,0.082,0.126,157.0,Icona Pop-I Love It (feat. Charli XCX)-2013
+175,David Guetta,Play Hard (feat. Ne-Yo & Akon) - New Edit,2013,0.087,0.072,-0.003,4e-05,0.0004,0.0066,0.068,0.13,209.0,David Guetta-Play Hard (feat. Ne-Yo & Akon) - New Edit-2013
+176,Maroon 5,Daylight,2013,0.067,0.066,-0.005,0.0,0.0003,0.0026,0.037,0.12,225.0,Maroon 5-Daylight-2013
+177,Maroon 5,Love Somebody,2013,0.078,0.068,-0.006,0.00013,0.0004,0.0012,0.04,0.12,230.0,Maroon 5-Love Somebody-2013
+178,Fergie,A Little Party Never Killed Nobody (All We Got),2013,0.062,0.076,-0.006,1e-05,0.0018,0.0009,0.052,0.13,241.0,Fergie-A Little Party Never Killed Nobody (All We Got)-2013
+179,Little Mix,Move,2013,0.074,0.085,-0.005,0.0,0.0009,0.0055,0.077,0.121,224.0,Little Mix-Move-2013
+180,The Wanted,Walks Like Rihanna,2013,0.082,0.056,-0.003,1e-05,0.0006,0.001,0.043,0.126,202.0,The Wanted-Walks Like Rihanna-2013
+181,Avril Lavigne,Rock N Roll,2013,0.096,0.047,-0.003,1e-05,0.0013,0.0034,0.067,0.184,207.0,Avril Lavigne-Rock N Roll-2013
+182,Justin Bieber,Heartbreaker,2013,0.052,0.056,-0.007,0.00014,0.001,0.0034,0.058,0.105,263.0,Justin Bieber-Heartbreaker-2013
+183,Justin Timberlake,Mirrors - Radio Edit,2013,0.06,0.058,-0.006,0.00014,0.0005,0.0043,0.065,0.077,277.0,Justin Timberlake-Mirrors - Radio Edit-2013
+184,Emeli Sandé,Next To Me,2013,0.08,0.067,-0.005,9e-05,0.0004,0.0011,0.035,0.095,197.0,Emeli Sandé-Next To Me-2013
+185,Demi Lovato,Made In The USA,2013,0.086,0.058,-0.004,0.0,0.0004,0.0032,0.059,0.087,196.0,Demi Lovato-Made In The USA-2013
+186,Emeli Sandé,Clown,2013,0.023,0.045,-0.008,0.00092,0.0004,0.0011,0.023,0.13,221.0,Emeli Sandé-Clown-2013
+187,Alicia Keys,Girl On Fire (feat. Nicki Minaj) - Inferno Version,2013,0.081,0.055,-0.006,9e-05,0.0031,0.0015,0.034,0.093,271.0,Alicia Keys-Girl On Fire (feat. Nicki Minaj) - Inferno Version-2013
+188,Justin Timberlake,TKO,2013,0.068,0.061,-0.007,1e-05,0.0024,0.0043,0.049,0.138,424.0,Justin Timberlake-TKO-2013
+189,Selena Gomez,Come & Get It,2013,0.079,0.055,-0.004,1e-05,0.0005,0.001,0.058,0.08,232.0,Selena Gomez-Come & Get It-2013
+190,Jennifer Lopez,Live It Up,2013,0.073,0.069,-0.005,1e-05,0.0017,0.0033,0.065,0.128,244.0,Jennifer Lopez-Live It Up-2013
+191,The Wanted,We Own The Night,2013,0.094,0.055,-0.004,1e-05,0.0013,0.0023,0.056,0.104,206.0,The Wanted-We Own The Night-2013
+192,Coldplay,Atlas - From The Hunger Games: Catching Fire Soundtrack,2013,0.045,0.028,-0.008,0.00063,0.0003,0.0011,0.011,0.136,236.0,Coldplay-Atlas - From The Hunger Games: Catching Fire Soundtrack-2013
+193,Austin Mahone,What About Love,2013,0.078,0.063,-0.007,0.0,0.0004,0.0004,0.028,0.1,203.0,Austin Mahone-What About Love-2013
+194,Justin Timberlake,Take Back the Night,2013,0.066,0.059,-0.005,4e-05,0.0016,0.0064,0.033,0.107,353.0,Justin Timberlake-Take Back the Night-2013
+195,Lady Gaga,Applause,2013,0.078,0.067,-0.004,3e-05,0.0005,0.0011,0.073,0.14,212.0,Lady Gaga-Applause-2013
+196,Ellie Goulding,Anything Could Happen,2013,0.078,0.07,-0.004,0.00043,0.0003,0.0014,0.038,0.103,286.0,Ellie Goulding-Anything Could Happen-2013
+197,Enrique Iglesias,Finally Found You,2013,0.088,0.062,-0.005,1e-05,0.001,0.0035,0.066,0.128,221.0,Enrique Iglesias-Finally Found You-2013
+198,Jonas Brothers,Pom Poms,2013,0.098,0.068,-0.002,7e-05,0.0009,0.0028,0.09,0.148,198.0,Jonas Brothers-Pom Poms-2013
+199,Mariah Carey,#Beautiful,2013,0.076,0.068,-0.005,0.00029,0.0004,0.0031,0.045,0.107,200.0,Mariah Carey-#Beautiful-2013
+200,Little Mix,How Ya Doin'? (feat. Missy Elliott),2013,0.095,0.036,-0.003,9e-05,0.0048,0.0037,0.051,0.201,211.0,Little Mix-How Ya Doin'? (feat. Missy Elliott)-2013
+201,Kesha,Crazy Kids (feat. will.i.am),2013,0.075,0.072,-0.004,4e-05,0.0004,0.0013,0.05,0.128,229.0,Kesha-Crazy Kids (feat. will.i.am)-2013
+202,Britney Spears,"Ooh La La (from ""The Smurfs 2"")",2013,0.057,0.069,-0.005,2e-05,0.0005,0.0011,0.073,0.128,257.0,"Britney Spears-Ooh La La (from ""The Smurfs 2"")-2013"
+203,Kelly Clarkson,People Like Us,2013,0.079,0.06,-0.005,4e-05,0.0004,0.0036,0.061,0.128,259.0,Kelly Clarkson-People Like Us-2013
+204,Ciara,Overdose,2013,0.07,0.077,-0.006,1e-05,0.0003,0.0006,0.079,0.107,227.0,Ciara-Overdose-2013
+205,Rihanna,Right Now - Dyro Radio Edit,2013,0.074,0.053,-0.006,0.0,0.0004,0.0024,0.045,0.13,186.0,Rihanna-Right Now - Dyro Radio Edit-2013
+206,Robin Thicke,Give It 2 U,2013,0.083,0.067,-0.004,1e-04,0.0007,0.0016,0.058,0.127,230.0,Robin Thicke-Give It 2 U-2013
+207,Jewel,Foolish Games,2013,0.034,0.051,-0.011,0.00023,0.0003,0.0012,0.007,0.132,250.0,Jewel-Foolish Games-2013
+208,Pitbull,Outta Nowhere (feat. Danny Mercer),2013,0.084,0.071,-0.004,0.00016,0.0003,0.0021,0.066,0.095,207.0,Pitbull-Outta Nowhere (feat. Danny Mercer)-2013
+209,Kelly Rowland,Freak,2013,0.078,0.065,-0.005,0.00013,0.0006,0.0012,0.045,0.104,274.0,Kelly Rowland-Freak-2013
+210,John Legend,All of Me,2014,0.026,0.042,-0.007,0.00092,0.0003,0.0013,0.033,0.12,270.0,John Legend-All of Me-2014
+211,Sam Smith,Stay With Me,2014,0.042,0.042,-0.006,0.00059,0.0004,0.0011,0.018,0.084,173.0,Sam Smith-Stay With Me-2014
+212,Calvin Harris,Summer,2014,0.086,0.06,-0.004,2e-05,0.0003,0.0014,0.074,0.128,223.0,Calvin Harris-Summer-2014
+213,Pharrell Williams,"Happy - From ""Despicable Me 2""",2014,0.082,0.065,-0.005,0.00022,0.0018,0.0009,0.096,0.16,233.0,"Pharrell Williams-Happy - From ""Despicable Me 2""-2014"
+214,MAGIC!,Rude,2014,0.076,0.077,-0.005,4e-05,0.0004,0.0031,0.093,0.144,225.0,MAGIC!-Rude-2014
+215,Taylor Swift,Shake It Off,2014,0.08,0.065,-0.005,6e-05,0.0017,0.0033,0.094,0.16,219.0,Taylor Swift-Shake It Off-2014
+216,Katy Perry,Dark Horse,2014,0.059,0.065,-0.006,0.0,0.0005,0.0017,0.035,0.132,216.0,Katy Perry-Dark Horse-2014
+217,Avicii,Hey Brother,2014,0.078,0.055,-0.005,3e-05,0.0004,0.0008,0.046,0.125,255.0,Avicii-Hey Brother-2014
+218,Maroon 5,Maps,2014,0.071,0.074,-0.006,2e-05,0.0003,0.0006,0.088,0.12,190.0,Maroon 5-Maps-2014
+219,Bruno Mars,Treasure,2014,0.069,0.087,-0.005,4e-05,0.0004,0.0032,0.094,0.116,179.0,Bruno Mars-Treasure-2014
+220,Passenger,Let Her Go,2014,0.054,0.051,-0.007,0.00039,0.0006,0.001,0.024,0.075,253.0,Passenger-Let Her Go-2014
+221,Ariana Grande,Problem,2014,0.081,0.066,-0.005,2e-05,0.0015,0.0016,0.063,0.103,194.0,Ariana Grande-Problem-2014
+222,Bastille,Pompeii,2014,0.072,0.068,-0.006,8e-05,0.0004,0.0027,0.057,0.127,214.0,Bastille-Pompeii-2014
+223,Lorde,Team,2014,0.058,0.069,-0.007,0.00017,0.0009,0.0031,0.042,0.1,193.0,Lorde-Team-2014
+224,John Newman,Love Me Again,2014,0.089,0.05,-0.005,0.0,0.0004,0.001,0.021,0.126,240.0,John Newman-Love Me Again-2014
+225,Disclosure,Latch,2014,0.073,0.05,-0.005,2e-05,0.0017,0.0009,0.052,0.122,256.0,Disclosure-Latch-2014
+226,Miley Cyrus,Adore You,2014,0.066,0.058,-0.005,0.00011,0.0003,0.0011,0.02,0.12,279.0,Miley Cyrus-Adore You-2014
+227,Michael Jackson,Love Never Felt So Good,2014,0.072,0.078,-0.006,0.00013,0.0004,0.0007,0.071,0.118,246.0,Michael Jackson-Love Never Felt So Good-2014
+228,Ellie Goulding,Burn,2014,0.078,0.056,-0.005,0.00031,0.0004,0.0011,0.033,0.087,231.0,Ellie Goulding-Burn-2014
+229,5 Seconds of Summer,She Looks So Perfect,2014,0.095,0.049,-0.004,0.0,0.0013,0.0033,0.044,0.16,202.0,5 Seconds of Summer-She Looks So Perfect-2014
+230,Iggy Azalea,Fancy,2014,0.072,0.091,-0.004,9e-05,0.0007,0.0005,0.038,0.095,200.0,Iggy Azalea-Fancy-2014
+231,Jason Derulo,Talk Dirty (feat. 2 Chainz),2014,0.065,0.076,-0.007,3e-05,0.0023,0.0031,0.076,0.1,178.0,Jason Derulo-Talk Dirty (feat. 2 Chainz)-2014
+232,Bruno Mars,Gorilla,2014,0.054,0.072,-0.007,0.00045,0.0004,0.001,0.064,0.14,244.0,Bruno Mars-Gorilla-2014
+233,Christina Perri,human,2014,0.049,0.044,-0.006,0.00013,0.0004,0.0011,0.025,0.144,251.0,Christina Perri-human-2014
+234,Bruno Mars,Young Girls,2014,0.075,0.056,-0.005,0.00046,0.0003,0.0021,0.05,0.126,229.0,Bruno Mars-Young Girls-2014
+235,Jason Derulo,Wiggle (feat. Snoop Dogg),2014,0.062,0.07,-0.007,8e-05,0.0025,0.0016,0.072,0.082,193.0,Jason Derulo-Wiggle (feat. Snoop Dogg)-2014
+236,OneRepublic,Love Runs Out,2014,0.093,0.072,-0.004,0.00017,0.0006,0.0008,0.074,0.12,225.0,OneRepublic-Love Runs Out-2014
+237,Katy Perry,This Is How We Do,2014,0.064,0.069,-0.006,2e-05,0.0005,0.0015,0.08,0.096,204.0,Katy Perry-This Is How We Do-2014
+238,Austin Mahone,Mmm Yeah (feat. Pitbull),2014,0.092,0.071,-0.004,0.0,0.0004,0.0027,0.098,0.126,232.0,Austin Mahone-Mmm Yeah (feat. Pitbull)-2014
+239,Fergie,A Little Party Never Killed Nobody (All We Got),2014,0.062,0.076,-0.006,1e-05,0.0018,0.0009,0.052,0.13,241.0,Fergie-A Little Party Never Killed Nobody (All We Got)-2014
+240,The Chainsmokers,#SELFIE,2014,0.092,0.079,-0.003,1e-05,0.0025,0.0008,0.066,0.128,184.0,The Chainsmokers-#SELFIE-2014
+241,Beyoncé,Partition,2014,0.044,0.041,-0.012,3e-05,0.0029,0.0031,0.017,0.186,319.0,Beyoncé-Partition-2014
+242,Katy Perry,Birthday,2014,0.067,0.072,-0.005,9e-05,0.0007,0.0011,0.084,0.126,215.0,Katy Perry-Birthday-2014
+243,Lady Gaga,G.U.Y.,2014,0.092,0.062,-0.003,1e-05,0.0004,0.0012,0.057,0.11,233.0,Lady Gaga-G.U.Y.-2014
+244,Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,2014,0.074,0.06,-0.003,0.00011,0.0004,0.0009,0.046,0.128,217.0,Zedd-Stay The Night - Featuring Hayley Williams Of Paramore-2014
+245,Demi Lovato,"Let It Go - From ""Frozen / Single Version",2014,0.066,0.05,-0.006,3e-05,0.0004,0.0027,0.025,0.14,226.0,"Demi Lovato-Let It Go - From ""Frozen / Single Version-2014"
+246,Birdy,Wings,2014,0.071,0.047,-0.005,8e-05,0.0003,0.0016,0.022,0.083,252.0,Birdy-Wings-2014
+247,Shakira,Can't Remember to Forget You (feat. Rihanna),2014,0.081,0.069,-0.004,0.00012,0.0007,0.0014,0.082,0.138,207.0,Shakira-Can't Remember to Forget You (feat. Rihanna)-2014
+248,David Guetta,Shot Me Down (feat. Skylar Grey) - Radio Edit,2014,0.077,0.035,-0.004,6e-05,0.0005,0.0012,0.004,0.192,191.0,David Guetta-Shot Me Down (feat. Skylar Grey) - Radio Edit-2014
+249,A Great Big World,Say Something,2014,0.015,0.045,-0.009,0.00087,0.0003,0.0009,0.009,0.138,229.0,A Great Big World-Say Something-2014
+250,Coldplay,A Sky Full of Stars,2014,0.068,0.055,-0.006,1e-05,0.0003,0.0021,0.016,0.125,268.0,Coldplay-A Sky Full of Stars-2014
+251,Pharrell Williams,Come Get It Bae,2014,0.08,0.093,-0.006,0.00027,0.0008,0.001,0.09,0.12,202.0,Pharrell Williams-Come Get It Bae-2014
+252,Sia,Chandelier,2014,0.078,0.029,-0.003,2e-05,0.0007,0.0007,0.062,0.174,216.0,Sia-Chandelier-2014
+253,Beyoncé,XO,2014,0.079,0.047,-0.009,0.00017,0.0026,0.0031,0.021,0.17,216.0,Beyoncé-XO-2014
+254,Pitbull,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song],2014,0.094,0.06,-0.004,0.0,0.0007,0.001,0.055,0.125,222.0,Pitbull-We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]-2014
+255,Birdy,Not About Angels,2014,0.014,0.041,-0.01,0.00097,0.0004,0.0009,0.023,0.116,190.0,Birdy-Not About Angels-2014
+256,Beyoncé,Drunk in Love,2014,0.062,0.059,-0.007,1e-05,0.0005,0.0018,0.04,0.14,323.0,Beyoncé-Drunk in Love-2014
+257,Nicki Minaj,Anaconda,2014,0.06,0.096,-0.006,7e-05,0.0018,0.0021,0.065,0.13,260.0,Nicki Minaj-Anaconda-2014
+258,Charli XCX,Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verräter,2014,0.081,0.068,-0.004,7e-05,0.0006,0.0034,0.064,0.092,169.0,Charli XCX-Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verräter-2014
+259,Shakira,La La La (Brasil 2014) (feat. Carlinhos Brown),2014,0.082,0.08,-0.005,0.00018,0.0004,0.0035,0.061,0.128,198.0,Shakira-La La La (Brasil 2014) (feat. Carlinhos Brown)-2014
+260,Birdy,Tee Shirt - Soundtrack Version,2014,0.034,0.068,-0.009,0.00084,0.0003,0.0009,0.056,0.076,160.0,Birdy-Tee Shirt - Soundtrack Version-2014
+261,Birdy,Words as Weapons,2014,0.035,0.053,-0.009,0.00028,0.0003,0.0014,0.019,0.12,239.0,Birdy-Words as Weapons-2014
+262,Mariah Carey,You're Mine (Eternal),2014,0.058,0.063,-0.007,0.00028,0.0007,0.0038,0.056,0.149,224.0,Mariah Carey-You're Mine (Eternal)-2014
+263,Lily Allen,Sheezus,2014,0.05,0.078,-0.007,0.00015,0.0004,0.0011,0.039,0.13,235.0,Lily Allen-Sheezus-2014
+264,Lea Michele,Cannonball,2014,0.082,0.056,-0.003,2e-05,0.0005,0.0019,0.057,0.092,215.0,Lea Michele-Cannonball-2014
+265,Alicia Keys,It's On Again - Main Soundtrack,2014,0.054,0.064,-0.009,1e-04,0.0011,0.0025,0.053,0.11,230.0,Alicia Keys-It's On Again - Main Soundtrack-2014
+266,Jennifer Lopez,I Luh Ya Papi,2014,0.073,0.074,-0.006,0.00045,0.0042,0.0012,0.059,0.096,207.0,Jennifer Lopez-I Luh Ya Papi-2014
+267,Justin Timberlake,Not a Bad Thing,2014,0.073,0.059,-0.006,0.00027,0.0006,0.0038,0.046,0.086,266.0,Justin Timberlake-Not a Bad Thing-2014
+268,Ed Sheeran,Thinking out Loud,2015,0.045,0.078,-0.006,0.00047,0.0003,0.0018,0.059,0.079,282.0,Ed Sheeran-Thinking out Loud-2015
+269,Sam Smith,I'm Not The Only One,2015,0.049,0.068,-0.006,0.00053,0.0004,0.0008,0.049,0.082,239.0,Sam Smith-I'm Not The Only One-2015
+270,The Weeknd,The Hills,2015,0.056,0.058,-0.007,7e-05,0.0005,0.0014,0.014,0.113,242.0,The Weeknd-The Hills-2015
+271,Justin Bieber,Love Yourself,2015,0.038,0.061,-0.01,0.00084,0.0044,0.0028,0.052,0.1,234.0,Justin Bieber-Love Yourself-2015
+272,Mark Ronson,Uptown Funk,2015,0.061,0.086,-0.007,1e-05,0.0008,0.0003,0.093,0.115,270.0,Mark Ronson-Uptown Funk-2015
+273,Hozier,Take Me To Church,2015,0.066,0.057,-0.005,0.00063,0.0005,0.0012,0.044,0.129,242.0,Hozier-Take Me To Church-2015
+274,Maroon 5,Sugar,2015,0.079,0.075,-0.007,6e-05,0.0003,0.0009,0.088,0.12,235.0,Maroon 5-Sugar-2015
+275,Justin Bieber,Sorry,2015,0.076,0.065,-0.004,8e-05,0.0005,0.003,0.041,0.1,201.0,Justin Bieber-Sorry-2015
+276,Rihanna,FourFiveSeconds,2015,0.027,0.058,-0.006,0.00088,0.0005,0.0013,0.035,0.206,188.0,Rihanna-FourFiveSeconds-2015
+277,Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",2015,0.061,0.026,-0.007,0.00025,0.0005,0.0013,0.028,0.19,253.0,"Ellie Goulding-Love Me Like You Do - From ""Fifty Shades Of Grey""-2015"
+278,The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",2015,0.038,0.066,-0.006,0.00039,0.0003,0.001,0.044,0.12,252.0,"The Weeknd-Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack-2015"
+279,Justin Bieber,What Do You Mean?,2015,0.057,0.085,-0.008,0.00059,0.001,0.0008,0.079,0.125,206.0,Justin Bieber-What Do You Mean?-2015
+280,Shawn Mendes,Stitches,2015,0.075,0.075,-0.007,2e-05,0.0007,0.0005,0.076,0.15,207.0,Shawn Mendes-Stitches-2015
+281,Jason Derulo,Want to Want Me,2015,0.068,0.078,-0.006,1e-05,0.0006,0.0011,0.066,0.114,208.0,Jason Derulo-Want to Want Me-2015
+282,Flo Rida,My House,2015,0.07,0.069,-0.005,2e-05,0.0005,0.0013,0.074,0.094,192.0,Flo Rida-My House-2015
+283,Mr. Probz,Waves - Robin Schulz Radio Edit,2015,0.051,0.083,-0.009,1e-05,0.0004,0.0008,0.045,0.12,208.0,Mr. Probz-Waves - Robin Schulz Radio Edit-2015
+284,One Direction,Night Changes,2015,0.052,0.067,-0.008,0.00086,0.0004,0.0012,0.037,0.12,227.0,One Direction-Night Changes-2015
+285,Calvin Harris,How Deep Is Your Love,2015,0.087,0.074,-0.004,4e-05,0.0007,0.0039,0.034,0.122,213.0,Calvin Harris-How Deep Is Your Love-2015
+286,Zara Larsson,Never Forget You,2015,0.073,0.058,-0.006,0.0,0.0005,0.0027,0.028,0.146,213.0,Zara Larsson-Never Forget You-2015
+287,Ariana Grande,Love Me Harder,2015,0.071,0.047,-0.004,1e-05,0.0003,0.0008,0.024,0.099,236.0,Ariana Grande-Love Me Harder-2015
+288,Maroon 5,Animals,2015,0.074,0.028,-0.006,0.0,0.0009,0.0059,0.033,0.19,231.0,Maroon 5-Animals-2015
+289,Calvin Harris,Blame,2015,0.086,0.041,-0.004,3e-05,0.0008,0.0034,0.035,0.128,213.0,Calvin Harris-Blame-2015
+290,Fifth Harmony,Worth It,2015,0.077,0.088,-0.004,6e-05,0.0009,0.0012,0.059,0.1,225.0,Fifth Harmony-Worth It-2015
+291,Ariana Grande,Break Free,2015,0.07,0.069,-0.005,1e-05,0.0005,0.002,0.028,0.13,215.0,Ariana Grande-Break Free-2015
+292,Ed Sheeran,Don't,2015,0.061,0.081,-0.007,1e-05,0.0007,0.0064,0.085,0.095,220.0,Ed Sheeran-Don't-2015
+293,Sia,Elastic Heart,2015,0.079,0.042,-0.005,1e-05,0.0005,0.0015,0.05,0.13,257.0,Sia-Elastic Heart-2015
+294,Clean Bandit,Rather Be (feat. Jess Glynne),2015,0.059,0.08,-0.007,0.00016,0.0004,0.0019,0.055,0.121,228.0,Clean Bandit-Rather Be (feat. Jess Glynne)-2015
+295,Adele,Hello,2015,0.045,0.048,-0.006,0.00034,0.0003,0.0009,0.029,0.158,295.0,Adele-Hello-2015
+296,Meghan Trainor,Dear Future Husband,2015,0.078,0.066,-0.005,0.00038,0.0019,0.0032,0.083,0.079,184.0,Meghan Trainor-Dear Future Husband-2015
+297,Beyoncé,43776,2015,0.071,0.075,-0.005,1e-05,0.0013,0.0013,0.056,0.136,214.0,Beyoncé-43776-2015
+298,Selena Gomez,The Heart Wants What It Wants,2015,0.079,0.062,-0.005,5e-05,0.0004,0.0014,0.062,0.083,227.0,Selena Gomez-The Heart Wants What It Wants-2015
+299,David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",2015,0.073,0.06,-0.004,0.00024,0.0015,0.0033,0.053,0.086,193.0,"David Guetta-Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)-2015"
+300,Christina Aguilera,Genie In a Bottle,2015,0.08,0.063,-0.007,0.00021,0.0016,0.0014,0.091,0.176,218.0,Christina Aguilera-Genie In a Bottle-2015
+301,Justin Bieber,Company,2015,0.08,0.059,-0.005,0.00013,0.0006,0.0008,0.043,0.095,208.0,Justin Bieber-Company-2015
+302,Ed Sheeran,Sing,2015,0.067,0.082,-0.004,0.0003,0.0005,0.0006,0.094,0.12,235.0,Ed Sheeran-Sing-2015
+303,Nick Jonas,Jealous - Remix,2015,0.071,0.068,-0.004,1e-05,0.0008,0.0044,0.045,0.093,222.0,Nick Jonas-Jealous - Remix-2015
+304,Demi Lovato,Really Don't Care,2015,0.073,0.071,-0.004,0.00012,0.0009,0.0019,0.085,0.121,202.0,Demi Lovato-Really Don't Care-2015
+305,Macklemore & Ryan Lewis,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",2015,0.061,0.083,-0.004,9e-05,0.0007,0.0029,0.071,0.11,293.0,"Macklemore & Ryan Lewis-Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)-2015"
+306,Paloma Faith,Only Love Can Hurt Like This,2015,0.089,0.057,-0.005,1e-04,0.0008,0.0033,0.031,0.091,233.0,Paloma Faith-Only Love Can Hurt Like This-2015
+307,Kelly Clarkson,Heartbeat Song,2015,0.08,0.049,-0.004,1e-05,0.0005,0.0006,0.048,0.149,199.0,Kelly Clarkson-Heartbeat Song-2015
+308,Olly Murs,Up,2015,0.085,0.069,-0.005,2e-05,0.0003,0.001,0.064,0.115,224.0,Olly Murs-Up-2015
+309,Jason Derulo,Trumpets,2015,0.07,0.063,-0.005,0.00056,0.0024,0.001,0.064,0.082,217.0,Jason Derulo-Trumpets-2015
+310,Naughty Boy,Runnin' (Lose It All),2015,0.085,0.032,-0.006,1e-05,0.0008,0.0048,0.008,0.139,213.0,Naughty Boy-Runnin' (Lose It All)-2015
+311,Selena Gomez,Same Old Love,2015,0.059,0.067,-0.004,2e-05,0.0003,0.0021,0.044,0.098,229.0,Selena Gomez-Same Old Love-2015
+312,Zedd,I Want You To Know,2015,0.085,0.058,-0.003,1e-05,0.0006,0.0014,0.037,0.13,240.0,Zedd-I Want You To Know-2015
+313,Meghan Trainor,Lips Are Movin,2015,0.083,0.078,-0.005,5e-05,0.0005,0.0011,0.095,0.139,183.0,Meghan Trainor-Lips Are Movin-2015
+314,Justin Bieber,I'll Show You,2015,0.061,0.036,-0.007,5e-05,0.001,0.0018,0.008,0.192,200.0,Justin Bieber-I'll Show You-2015
+315,Alessia Cara,Here,2015,0.082,0.038,-0.004,8e-05,0.001,0.0008,0.033,0.12,199.0,Alessia Cara-Here-2015
+316,OneRepublic,I Lived,2015,0.085,0.059,-0.005,7e-05,0.0004,0.0027,0.034,0.12,235.0,OneRepublic-I Lived-2015
+317,Pitbull,Fireball (feat. John Ryan),2015,0.094,0.069,-0.005,9e-05,0.0006,0.0005,0.079,0.123,235.0,Pitbull-Fireball (feat. John Ryan)-2015
+318,Sigala,Easy Love,2015,0.094,0.068,-0.004,0.00018,0.0006,0.0012,0.065,0.124,230.0,Sigala-Easy Love-2015
+319,Justin Bieber,The Feeling,2015,0.081,0.053,-0.006,8e-05,0.0006,0.001,0.021,0.127,245.0,Justin Bieber-The Feeling-2015
+320,Carly Rae Jepsen,I Really Like You,2015,0.081,0.062,-0.005,1e-05,0.0004,0.0022,0.06,0.122,205.0,Carly Rae Jepsen-I Really Like You-2015
+321,Fifth Harmony,BO$$,2015,0.087,0.081,-0.005,1e-05,0.0011,0.0005,0.074,0.103,171.0,Fifth Harmony-BO$$-2015
+323,Ariana Grande,Focus,2015,0.088,0.067,-0.006,0.00027,0.0024,0.0044,0.079,0.1,211.0,Ariana Grande-Focus-2015
+324,Meghan Trainor,All About That Bass,2015,0.088,0.081,-0.004,5e-05,0.0005,0.0011,0.096,0.134,189.0,Meghan Trainor-All About That Bass-2015
+325,Ellie Goulding,On My Mind,2015,0.071,0.07,-0.007,0.00026,0.0005,0.0009,0.074,0.155,213.0,Ellie Goulding-On My Mind-2015
+326,Little Mix,Love Me Like You,2015,0.067,0.079,-0.004,0.00021,0.0004,0.0028,0.085,0.106,198.0,Little Mix-Love Me Like You-2015
+327,Avicii,Broken Arrows,2015,0.067,0.063,-0.007,5e-05,0.0005,0.001,0.029,0.116,233.0,Avicii-Broken Arrows-2015
+328,Jennifer Lopez,Booty,2015,0.095,0.071,-0.004,0.0,0.0005,0.0026,0.04,0.129,210.0,Jennifer Lopez-Booty-2015
+329,Justin Bieber,What Do You Mean? - Acoustic,2015,0.036,0.077,-0.011,0.00079,0.0004,0.001,0.076,0.125,204.0,Justin Bieber-What Do You Mean? - Acoustic-2015
+330,Justin Bieber,Mark My Words,2015,0.026,0.038,-0.009,0.00088,0.0003,0.0017,0.052,0.114,134.0,Justin Bieber-Mark My Words-2015
+331,Rudimental,Lay It All on Me,2015,0.075,0.067,-0.007,0.00014,0.0004,0.0019,0.048,0.123,242.0,Rudimental-Lay It All on Me-2015
+332,Rihanna,American Oxygen,2015,0.075,0.039,-0.006,5e-05,0.0009,0.0033,0.048,0.078,320.0,Rihanna-American Oxygen-2015
+333,Jessie J,Bang Bang,2015,0.075,0.071,-0.004,0.00027,0.0009,0.0038,0.073,0.15,199.0,Jessie J-Bang Bang-2015
+334,Lost Frequencies,Reality - Radio Edit,2015,0.07,0.071,-0.008,2e-05,0.0003,0.0007,0.06,0.122,159.0,Lost Frequencies-Reality - Radio Edit-2015
+335,Sia,Alive,2015,0.076,0.051,-0.004,0.00025,0.0005,0.0011,0.044,0.1,264.0,Sia-Alive-2015
+336,Robin Schulz,Sugar (feat. Francesco Yates),2015,0.082,0.064,-0.005,2e-05,0.0006,0.0016,0.064,0.123,219.0,Robin Schulz-Sugar (feat. Francesco Yates)-2015
+337,Justin Bieber,Been You,2015,0.078,0.074,-0.006,2e-05,0.0007,0.0032,0.086,0.113,199.0,Justin Bieber-Been You-2015
+338,Lilly Wood and The Prick,Prayer in C - Robin Schulz Radio Edit,2015,0.089,0.076,-0.005,2e-05,0.0003,0.0062,0.078,0.123,189.0,Lilly Wood and The Prick-Prayer in C - Robin Schulz Radio Edit-2015
+339,Wiz Khalifa,See You Again (feat. Charlie Puth),2015,0.048,0.069,-0.008,0.00037,0.0008,0.0006,0.028,0.08,230.0,Wiz Khalifa-See You Again (feat. Charlie Puth)-2015
+340,Alesso,Heroes (we could be),2015,0.075,0.052,-0.004,4e-05,0.0006,0.0024,0.035,0.126,210.0,Alesso-Heroes (we could be)-2015
+341,Jennifer Lopez,"Feel The Light - From The ""Home"" Soundtrack",2015,0.06,0.047,-0.006,0.00033,0.0005,0.0009,0.004,0.156,292.0,"Jennifer Lopez-Feel The Light - From The ""Home"" Soundtrack-2015"
+342,One Direction,Perfect,2015,0.082,0.065,-0.005,6e-05,0.0008,0.0012,0.04,0.1,230.0,One Direction-Perfect-2015
+343,Madonna,Ghosttown,2015,0.055,0.054,-0.007,4e-05,0.0004,0.0012,0.009,0.079,250.0,Madonna-Ghosttown-2015
+344,David Guetta,Bang My Head (feat. Sia & Fetty Wap),2015,0.087,0.06,-0.004,5e-05,0.0008,0.001,0.059,0.108,193.0,David Guetta-Bang My Head (feat. Sia & Fetty Wap)-2015
+345,Ed Sheeran,Bloodstream,2015,0.059,0.048,-0.006,0.0002,0.0005,0.0006,0.027,0.089,309.0,Ed Sheeran-Bloodstream-2015
+346,Madonna,Living For Love,2015,0.079,0.067,-0.005,4e-05,0.0009,0.0025,0.039,0.123,219.0,Madonna-Living For Love-2015
+347,Gwen Stefani,Baby Don't Lie,2015,0.055,0.069,-0.005,1e-05,0.0003,0.001,0.026,0.1,203.0,Gwen Stefani-Baby Don't Lie-2015
+348,Jess Glynne,Don't Be so Hard on Yourself,2015,0.082,0.057,-0.003,6e-05,0.0003,0.0016,0.066,0.12,211.0,Jess Glynne-Don't Be so Hard on Yourself-2015
+349,One Direction,Steal My Girl,2015,0.076,0.047,-0.006,0.0,0.0004,0.0014,0.052,0.077,227.0,One Direction-Steal My Girl-2015
+350,Pitbull,"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")",2015,0.085,0.068,-0.003,1e-05,0.0006,0.0006,0.093,0.127,193.0,"Pitbull-Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")-2015"
+351,Alicia Keys,We Are Here,2015,0.067,0.064,-0.006,0.00043,0.0004,0.0008,0.008,0.093,285.0,Alicia Keys-We Are Here-2015
+352,Florence + The Machine,St Jude,2015,0.043,0.026,-0.011,0.00075,0.0003,0.0011,0.009,0.117,225.0,Florence + The Machine-St Jude-2015
+353,David Guetta,Yesterday (feat. Bebe Rexha),2015,0.078,0.057,-0.004,2e-05,0.0003,0.0033,0.028,0.128,243.0,David Guetta-Yesterday (feat. Bebe Rexha)-2015
+354,Pitbull,Time of Our Lives,2015,0.08,0.072,-0.006,9e-05,0.0006,0.0069,0.072,0.124,229.0,Pitbull-Time of Our Lives-2015
+355,Hilary Duff,Sparks,2015,0.088,0.085,-0.005,4e-05,0.0006,0.001,0.079,0.122,186.0,Hilary Duff-Sparks-2015
+356,Ricky Martin,Mr. Put It Down,2015,0.078,0.08,-0.006,1e-05,0.0018,0.0004,0.083,0.128,196.0,Ricky Martin-Mr. Put It Down-2015
+357,Katy Perry,Legendary Lovers,2015,0.084,0.062,-0.005,2e-05,0.0008,0.0008,0.039,0.126,224.0,Katy Perry-Legendary Lovers-2015
+358,Gwen Stefani,Spark The Fire,2015,0.08,0.088,-0.004,8e-05,0.0006,0.002,0.054,0.12,202.0,Gwen Stefani-Spark The Fire-2015
+359,Kelly Clarkson,Run Run Run,2015,0.037,0.028,-0.007,0.00045,0.0004,0.0011,0.008,0.112,273.0,Kelly Clarkson-Run Run Run-2015
+360,Enrique Iglesias,Let Me Be Your Lover,2015,0.09,0.072,-0.004,1e-05,0.0013,0.0006,0.088,0.112,238.0,Enrique Iglesias-Let Me Be Your Lover-2015
+361,Jennifer Hudson,Dangerous,2015,0.053,0.09,-0.005,0.0,0.0005,0.0008,0.065,0.109,255.0,Jennifer Hudson-Dangerous-2015
+362,Fergie,L.A.LOVE (la la),2015,0.039,0.048,-0.008,2e-05,0.0009,0.0026,0.027,0.202,193.0,Fergie-L.A.LOVE (la la)-2015
+363,The Weeknd,The Hills,2016,0.056,0.058,-0.007,7e-05,0.0005,0.0014,0.014,0.113,242.0,The Weeknd-The Hills-2016
+364,Justin Bieber,Love Yourself,2016,0.038,0.061,-0.01,0.00084,0.0044,0.0028,0.052,0.1,234.0,Justin Bieber-Love Yourself-2016
+365,DNCE,Cake By The Ocean,2016,0.075,0.077,-0.005,0.00015,0.0005,0.0004,0.09,0.119,219.0,DNCE-Cake By The Ocean-2016
+366,The Chainsmokers,Don't Let Me Down,2016,0.087,0.053,-0.005,0.00016,0.0017,0.0014,0.042,0.16,208.0,The Chainsmokers-Don't Let Me Down-2016
+367,Martin Garrix,In the Name of Love,2016,0.052,0.05,-0.006,0.00011,0.0004,0.0045,0.017,0.134,196.0,Martin Garrix-In the Name of Love-2016
+368,Ariana Grande,Into You,2016,0.073,0.062,-0.006,2e-05,0.0011,0.0014,0.037,0.108,244.0,Ariana Grande-Into You-2016
+369,Calvin Harris,This Is What You Came For,2016,0.093,0.063,-0.003,0.0002,0.0003,0.0015,0.047,0.124,222.0,Calvin Harris-This Is What You Came For-2016
+370,Lady Gaga,Million Reasons,2016,0.042,0.067,-0.008,0.00049,0.0004,0.0011,0.015,0.13,205.0,Lady Gaga-Million Reasons-2016
+371,Rihanna,Needed Me,2016,0.031,0.067,-0.008,0.00011,0.0024,0.0008,0.03,0.111,192.0,Rihanna-Needed Me-2016
+372,Lukas Graham,7 Years,2016,0.047,0.077,-0.006,0.00029,0.0005,0.0039,0.034,0.12,237.0,Lukas Graham-7 Years-2016
+373,Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",2016,0.083,0.067,-0.006,1e-05,0.0007,0.0019,0.07,0.113,236.0,"Justin Timberlake-CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")-2016"
+374,Fifth Harmony,Work from Home (feat. Ty Dolla $ign),2016,0.059,0.08,-0.006,1e-04,0.0004,0.0006,0.059,0.105,214.0,Fifth Harmony-Work from Home (feat. Ty Dolla $ign)-2016
+375,Alessia Cara,Scars To Your Beautiful,2016,0.074,0.057,-0.006,3e-05,0.0013,0.0011,0.045,0.097,230.0,Alessia Cara-Scars To Your Beautiful-2016
+376,Meghan Trainor,Like I'm Gonna Lose You (feat. John Legend),2016,0.053,0.063,-0.007,0.0004,0.0004,0.0018,0.042,0.108,225.0,Meghan Trainor-Like I'm Gonna Lose You (feat. John Legend)-2016
+377,Rihanna,Work,2016,0.053,0.073,-0.006,8e-05,0.0009,0.0009,0.056,0.092,219.0,Rihanna-Work-2016
+378,Shawn Mendes,Stitches,2016,0.075,0.075,-0.007,2e-05,0.0007,0.0005,0.076,0.15,207.0,Shawn Mendes-Stitches-2016
+379,G-Eazy,"Me, Myself & I",2016,0.067,0.076,-0.007,2e-05,0.001,0.0016,0.038,0.112,251.0,"G-Eazy-Me, Myself & I-2016"
+380,Mike Posner,I Took A Pill In Ibiza - Seeb Remix,2016,0.071,0.066,-0.007,4e-05,0.0011,0.0008,0.069,0.102,198.0,Mike Posner-I Took A Pill In Ibiza - Seeb Remix-2016
+381,Ariana Grande,Dangerous Woman,2016,0.06,0.066,-0.005,5e-05,0.0004,0.0036,0.029,0.134,236.0,Ariana Grande-Dangerous Woman-2016
+382,Hailee Steinfeld,Starving,2016,0.062,0.073,-0.004,0.00038,0.0006,0.0011,0.051,0.1,182.0,Hailee Steinfeld-Starving-2016
+383,Little Mix,Shout Out to My Ex,2016,0.075,0.077,-0.004,2e-05,0.0009,0.0011,0.08,0.126,246.0,Little Mix-Shout Out to My Ex-2016
+384,BØRNS,Electric Love,2016,0.08,0.061,-0.008,1e-05,0.0005,0.0026,0.052,0.12,218.0,BØRNS-Electric Love-2016
+385,Demi Lovato,Confident,2016,0.075,0.059,-0.006,0.0,0.0007,0.0009,0.034,0.13,206.0,Demi Lovato-Confident-2016
+386,Drake,Too Good,2016,0.065,0.079,-0.008,5e-05,0.001,0.001,0.039,0.118,263.0,Drake-Too Good-2016
+387,The Chainsmokers,Roses,2016,0.08,0.071,-0.007,4e-05,0.0006,0.0031,0.034,0.1,227.0,The Chainsmokers-Roses-2016
+388,Major Lazer,Cold Water (feat. Justin Bieber & MØ),2016,0.08,0.061,-0.005,7e-05,0.0004,0.0016,0.05,0.093,185.0,Major Lazer-Cold Water (feat. Justin Bieber & MØ)-2016
+389,Meghan Trainor,Me Too,2016,0.069,0.093,-0.006,1e-04,0.001,0.0048,0.084,0.124,181.0,Meghan Trainor-Me Too-2016
+390,Major Lazer,Light It Up (feat. Nyla & Fuse ODG) [Remix],2016,0.088,0.075,-0.004,4e-05,0.0007,0.0023,0.075,0.108,166.0,Major Lazer-Light It Up (feat. Nyla & Fuse ODG) [Remix]-2016
+391,Jennifer Lopez,Ain't Your Mama,2016,0.068,0.076,-0.006,5e-05,0.0023,0.0007,0.082,0.12,218.0,Jennifer Lopez-Ain't Your Mama-2016
+392,Nick Jonas,Close,2016,0.062,0.065,-0.005,0.00025,0.0008,0.0014,0.04,0.124,234.0,Nick Jonas-Close-2016
+393,DNCE,Toothbrush,2016,0.079,0.055,-0.006,0.00012,0.0013,0.0047,0.082,0.105,232.0,DNCE-Toothbrush-2016
+394,The Chainsmokers,All We Know,2016,0.059,0.066,-0.009,1e-04,0.0003,0.0012,0.03,0.09,194.0,The Chainsmokers-All We Know-2016
+395,MØ,Final Song,2016,0.067,0.07,-0.006,1e-05,0.0003,0.0008,0.025,0.105,236.0,MØ-Final Song-2016
+396,Justin Bieber,Company,2016,0.08,0.059,-0.005,0.00013,0.0006,0.0008,0.043,0.095,208.0,Justin Bieber-Company-2016
+397,Selena Gomez,Hands To Myself,2016,0.05,0.081,-0.007,1e-05,0.0012,0.0034,0.047,0.111,201.0,Selena Gomez-Hands To Myself-2016
+398,Adele,All I Ask,2016,0.028,0.059,-0.005,0.00088,0.0003,0.0015,0.034,0.142,272.0,Adele-All I Ask-2016
+399,P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",2016,0.07,0.063,-0.006,1e-05,0.0015,0.0011,0.05,0.163,215.0,"P!nk-Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")-2016"
+400,Meghan Trainor,NO,2016,0.08,0.056,-0.004,1e-05,0.0022,0.0074,0.065,0.092,214.0,Meghan Trainor-NO-2016
+401,Selena Gomez,Kill Em With Kindness,2016,0.088,0.076,-0.005,1e-05,0.0004,0.001,0.04,0.12,218.0,Selena Gomez-Kill Em With Kindness-2016
+402,Tove Lo,Cool Girl,2016,0.069,0.067,-0.007,0.00031,0.0011,0.0008,0.02,0.102,199.0,Tove Lo-Cool Girl-2016
+403,Naughty Boy,Runnin' (Lose It All),2016,0.085,0.032,-0.006,1e-05,0.0008,0.0048,0.008,0.139,213.0,Naughty Boy-Runnin' (Lose It All)-2016
+404,Alessia Cara,Here,2016,0.082,0.038,-0.004,8e-05,0.001,0.0008,0.033,0.12,199.0,Alessia Cara-Here-2016
+405,Lady Gaga,Perfect Illusion,2016,0.086,0.061,-0.005,0.0,0.0004,0.0036,0.066,0.125,182.0,Lady Gaga-Perfect Illusion-2016
+406,ZAYN,PILLOWTALK,2016,0.07,0.059,-0.004,1e-04,0.0005,0.0009,0.043,0.125,204.0,ZAYN-PILLOWTALK-2016
+407,Taylor Swift,Out Of The Woods,2016,0.084,0.055,-0.007,0.0,0.0004,0.0034,0.034,0.092,236.0,Taylor Swift-Out Of The Woods-2016
+408,Katy Perry,Rise,2016,0.064,0.055,-0.006,5e-05,0.0005,0.0011,0.044,0.101,203.0,Katy Perry-Rise-2016
+409,OneRepublic,Wherever I Go,2016,0.069,0.055,-0.006,9e-05,0.0004,0.0027,0.035,0.1,170.0,OneRepublic-Wherever I Go-2016
+410,Demi Lovato,Body Say,2016,0.074,0.063,-0.005,0.0,0.0004,0.0028,0.026,0.087,194.0,Demi Lovato-Body Say-2016
+411,Shawn Mendes,Don't Be A Fool,2016,0.034,0.047,-0.006,0.0006,0.0004,0.001,0.027,0.175,216.0,Shawn Mendes-Don't Be A Fool-2016
+412,ZAYN,LIKE I WOULD,2016,0.083,0.056,-0.006,2e-05,0.0011,0.0026,0.023,0.113,192.0,ZAYN-LIKE I WOULD-2016
+413,Sia,Cheap Thrills,2016,0.08,0.059,-0.005,6e-05,0.0022,0.0008,0.073,0.09,225.0,Sia-Cheap Thrills-2016
+414,Bebe Rexha,I Got You,2016,0.089,0.061,-0.005,5e-05,0.0005,0.0009,0.032,0.098,192.0,Bebe Rexha-I Got You-2016
+415,Carly Rae Jepsen,Run Away With Me,2016,0.072,0.056,-0.006,1e-05,0.0005,0.0005,0.025,0.119,251.0,Carly Rae Jepsen-Run Away With Me-2016
+416,Snakehips,Cruel (feat. ZAYN),2016,0.088,0.06,-0.004,2e-05,0.0012,0.0016,0.032,0.11,228.0,Snakehips-Cruel (feat. ZAYN)-2016
+417,Adele,Send My Love (To Your New Lover),2016,0.052,0.069,-0.008,4e-05,0.001,0.0017,0.056,0.164,223.0,Adele-Send My Love (To Your New Lover)-2016
+418,Missy Elliott,WTF (Where They From),2016,0.082,0.093,-0.003,2e-05,0.002,0.0006,0.056,0.12,193.0,Missy Elliott-WTF (Where They From)-2016
+419,Years & Years,Desire,2016,0.078,0.071,-0.005,0.0003,0.0006,0.003,0.064,0.126,203.0,Years & Years-Desire-2016
+420,Adele,When We Were Young,2016,0.059,0.038,-0.006,0.00035,0.0005,0.0009,0.027,0.144,291.0,Adele-When We Were Young-2016
+421,Shawn Mendes,I Know What You Did Last Summer,2016,0.077,0.068,-0.005,0.00011,0.001,0.0016,0.072,0.114,224.0,Shawn Mendes-I Know What You Did Last Summer-2016
+422,Florence + The Machine,Wish That You Were Here - From Miss Peregrines Home for Peculiar Children Original Motion Picture,2016,0.057,0.037,-0.006,0.00072,0.0003,0.0013,0.012,0.094,403.0,Florence + The Machine-Wish That You Were Here - From Miss Peregrines Home for Peculiar Children Original Motion Picture-2016
+423,Emeli Sandé,Hurts,2016,0.064,0.058,-0.008,2e-05,0.0003,0.0015,0.018,0.106,238.0,Emeli Sandé-Hurts-2016
+424,Christina Aguilera,Change,2016,0.054,0.062,-0.006,0.00068,0.0008,0.0013,0.02,0.082,187.0,Christina Aguilera-Change-2016
+425,Britney Spears,Make Me... (feat. G-Eazy),2016,0.07,0.07,-0.007,0.00016,0.001,0.0022,0.058,0.123,231.0,Britney Spears-Make Me... (feat. G-Eazy)-2016
+426,Birdy,Keeping Your Head Up,2016,0.078,0.06,-0.005,0.00016,0.0005,0.0019,0.053,0.122,208.0,Birdy-Keeping Your Head Up-2016
+427,Zedd,True Colors,2016,0.079,0.057,-0.003,0.0004,0.0004,0.001,0.049,0.126,225.0,Zedd-True Colors-2016
+428,Gwen Stefani,Make Me Like You,2016,0.071,0.074,-0.005,4e-05,0.0005,0.0013,0.08,0.118,217.0,Gwen Stefani-Make Me Like You-2016
+429,Nick Jonas,Champagne Problems,2016,0.078,0.073,-0.005,0.0,0.0013,0.0009,0.064,0.108,193.0,Nick Jonas-Champagne Problems-2016
+430,DNCE,Blown,2016,0.095,0.063,-0.005,0.0,0.0004,0.001,0.073,0.13,197.0,DNCE-Blown-2016
+431,John Legend,Start,2016,0.004,0.052,-0.015,0.00099,0.0004,0.0009,0.026,0.11,310.0,John Legend-Start-2016
+432,Missy Elliott,Pep Rally,2016,0.075,0.083,-0.004,0.00022,0.0012,0.002,0.032,0.09,263.0,Missy Elliott-Pep Rally-2016
+433,Carly Rae Jepsen,Higher,2016,0.087,0.065,-0.005,1e-05,0.0006,0.0037,0.044,0.114,234.0,Carly Rae Jepsen-Higher-2016
+434,Britney Spears,Invitation,2016,0.065,0.037,-0.007,3e-05,0.0011,0.0009,0.016,0.112,200.0,Britney Spears-Invitation-2016
+435,Charlie Puth,One Call Away (feat. Tyga) - Remix,2016,0.069,0.075,-0.005,0.00026,0.0004,0.0013,0.052,0.091,192.0,Charlie Puth-One Call Away (feat. Tyga) - Remix-2016
+436,Passenger,Beautiful Birds (feat. Birdy),2016,0.017,0.039,-0.013,0.00091,0.0003,0.0011,0.014,0.086,214.0,Passenger-Beautiful Birds (feat. Birdy)-2016
+437,Hilary Duff,Little Lies,2016,0.076,0.057,-0.006,0.0,0.0006,0.0004,0.04,0.124,204.0,Hilary Duff-Little Lies-2016
+438,Britney Spears,Do You Wanna Come Over?,2016,0.07,0.075,-0.006,1e-05,0.0007,0.0011,0.045,0.121,203.0,Britney Spears-Do You Wanna Come Over?-2016
+439,Janet Jackson,BURNITUP!,2016,0.071,0.083,-0.007,5e-05,0.0018,0.0031,0.083,0.123,250.0,Janet Jackson-BURNITUP!-2016
+440,Joey Montana,Picky - Remix,2016,0.081,0.07,-0.003,9e-05,0.0007,0.0037,0.069,0.186,225.0,Joey Montana-Picky - Remix-2016
+441,Nelly Furtado,Behind Your Back,2016,0.047,0.08,-0.01,0.00025,0.0004,0.0007,0.069,0.098,228.0,Nelly Furtado-Behind Your Back-2016
+442,Adele,Million Years Ago,2016,0.0,0.0,-0.06,0.0,0.0,0.0,0.0,0.0,227.0,Adele-Million Years Ago-2016
+443,Ed Sheeran,Shape of You,2017,0.065,0.083,-0.003,0.00058,0.0008,0.0009,0.093,0.096,234.0,Ed Sheeran-Shape of You-2017
+444,The Chainsmokers,Closer,2017,0.052,0.075,-0.006,0.00041,0.0003,0.0011,0.066,0.095,245.0,The Chainsmokers-Closer-2017
+445,The Weeknd,Starboy,2017,0.059,0.068,-0.007,0.00014,0.0028,0.0014,0.049,0.186,230.0,The Weeknd-Starboy-2017
+446,Shawn Mendes,Treat You Better,2017,0.082,0.044,-0.004,0.00011,0.0034,0.0011,0.075,0.083,188.0,Shawn Mendes-Treat You Better-2017
+447,Bruno Mars,That's What I Like,2017,0.056,0.085,-0.005,1e-05,0.0004,0.0009,0.086,0.134,207.0,Bruno Mars-That's What I Like-2017
+448,DJ Snake,Let Me Love You,2017,0.072,0.065,-0.005,9e-05,0.0003,0.0014,0.016,0.1,206.0,DJ Snake-Let Me Love You-2017
+449,The Weeknd,I Feel It Coming,2017,0.082,0.077,-0.006,0.00043,0.0012,0.0007,0.059,0.093,269.0,The Weeknd-I Feel It Coming-2017
+450,Shawn Mendes,Mercy,2017,0.066,0.056,-0.005,0.00013,0.0008,0.0011,0.036,0.148,209.0,Shawn Mendes-Mercy-2017
+451,Ariana Grande,Side To Side,2017,0.074,0.065,-0.006,5e-05,0.0023,0.0024,0.061,0.159,226.0,Ariana Grande-Side To Side-2017
+452,Zedd,Stay,2017,0.062,0.069,-0.005,0.00025,0.0006,0.0012,0.054,0.102,210.0,Zedd-Stay-2017
+453,Kygo,It Ain't Me (with Selena Gomez),2017,0.053,0.064,-0.007,0.00012,0.0007,0.0009,0.052,0.1,221.0,Kygo-It Ain't Me (with Selena Gomez)-2017
+454,Miley Cyrus,Malibu,2017,0.078,0.057,-0.006,8e-05,0.0006,0.0008,0.034,0.14,232.0,Miley Cyrus-Malibu-2017
+455,The Chainsmokers,Something Just Like This,2017,0.065,0.061,-0.007,3e-05,0.0004,0.0017,0.051,0.103,248.0,The Chainsmokers-Something Just Like This-2017
+456,Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),2017,0.076,0.072,-0.004,0.00041,0.0005,0.0018,0.074,0.102,251.0,Clean Bandit-Rockabye (feat. Sean Paul & Anne-Marie)-2017
+457,ZAYN,I Dont Wanna Live Forever (Fifty Shades Darker),2017,0.045,0.074,-0.008,6e-05,0.0006,0.0033,0.009,0.118,245.0,ZAYN-I Dont Wanna Live Forever (Fifty Shades Darker)-2017
+458,Calvin Harris,My Way,2017,0.091,0.082,-0.003,9e-05,0.0004,0.0016,0.054,0.12,219.0,Calvin Harris-My Way-2017
+459,DJ Khaled,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",2017,0.067,0.061,-0.004,6e-05,0.0004,0.0017,0.081,0.081,289.0,"DJ Khaled-I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)-2017"
+460,Kesha,Praying,2017,0.039,0.058,-0.007,0.00049,0.0003,0.0011,0.032,0.073,230.0,Kesha-Praying-2017
+461,Luis Fonsi,Despacito - Remix,2017,0.082,0.065,-0.004,0.00023,0.0017,0.001,0.082,0.178,229.0,Luis Fonsi-Despacito - Remix-2017
+462,Sia,The Greatest,2017,0.073,0.067,-0.006,1e-05,0.0027,0.0006,0.073,0.192,210.0,Sia-The Greatest-2017
+463,Martin Garrix,There for You,2017,0.064,0.061,-0.008,0.00012,0.0006,0.0012,0.013,0.106,222.0,Martin Garrix-There for You-2017
+464,The Chainsmokers,Paris,2017,0.064,0.065,-0.007,2e-05,0.0003,0.0009,0.025,0.1,222.0,The Chainsmokers-Paris-2017
+465,Camila Cabello,Crying in the Club,2017,0.062,0.033,-0.006,0.00033,0.0038,0.0016,0.06,0.085,216.0,Camila Cabello-Crying in the Club-2017
+466,Jonas Blue,Mama,2017,0.079,0.074,-0.004,1e-04,0.0004,0.0005,0.057,0.104,184.0,Jonas Blue-Mama-2017
+467,Calvin Harris,Slide (feat. Frank Ocean & Migos),2017,0.08,0.074,-0.003,0.0005,0.0005,0.0025,0.051,0.104,231.0,Calvin Harris-Slide (feat. Frank Ocean & Migos)-2017
+468,Katy Perry,Swish Swish,2017,0.071,0.084,-0.005,2e-05,0.0004,0.001,0.057,0.12,243.0,Katy Perry-Swish Swish-2017
+469,Katy Perry,Chained To The Rhythm,2017,0.08,0.045,-0.005,8e-05,0.0017,0.002,0.047,0.19,238.0,Katy Perry-Chained To The Rhythm-2017
+470,Maroon 5,Cold (feat. Future),2017,0.072,0.069,-0.006,0.00014,0.0011,0.0005,0.041,0.1,234.0,Maroon 5-Cold (feat. Future)-2017
+471,Lana Del Rey,Love,2017,0.037,0.053,-0.011,0.00049,0.0003,0.0011,0.023,0.099,273.0,Lana Del Rey-Love-2017
+472,CNCO,Reggaetón Lento (Remix),2017,0.091,0.053,-0.003,0.00015,0.0009,0.001,0.062,0.094,189.0,CNCO-Reggaetón Lento (Remix)-2017
+473,Adele,All I Ask,2017,0.028,0.059,-0.005,0.00088,0.0003,0.0015,0.034,0.142,272.0,Adele-All I Ask-2017
+474,Kygo,First Time,2017,0.059,0.063,-0.007,0.0002,0.0011,0.001,0.068,0.09,194.0,Kygo-First Time-2017
+475,Lady Gaga,The Cure,2017,0.051,0.07,-0.005,8e-05,0.0003,0.0009,0.052,0.1,211.0,Lady Gaga-The Cure-2017
+476,Alessia Cara,"How Far I'll Go - From ""Moana""",2017,0.054,0.031,-0.01,0.00016,0.0035,0.0007,0.016,0.181,176.0,"Alessia Cara-How Far I'll Go - From ""Moana""-2017"
+477,Cardi B,Bodak Yellow,2017,0.072,0.093,-0.006,7e-05,0.0011,0.0035,0.046,0.125,224.0,Cardi B-Bodak Yellow-2017
+478,OneRepublic,Rich Love (with Seeb),2017,0.087,0.04,-0.004,0.00017,0.0031,0.0036,0.047,0.105,201.0,OneRepublic-Rich Love (with Seeb)-2017
+479,Alan Walker,Tired,2017,0.088,0.069,-0.004,4e-05,0.0006,0.0015,0.049,0.124,192.0,Alan Walker-Tired-2017
+480,Sigala,Came Here for Love,2017,0.087,0.071,-0.003,3e-05,0.0004,0.0012,0.072,0.125,203.0,Sigala-Came Here for Love-2017
+481,Bruno Mars,24K Magic,2017,0.08,0.082,-0.004,3e-05,0.0008,0.0015,0.063,0.107,226.0,Bruno Mars-24K Magic-2017
+482,Liam Payne,Strip That Down (feat. Quavo),2017,0.05,0.087,-0.005,0.0002,0.0005,0.0008,0.055,0.106,202.0,Liam Payne-Strip That Down (feat. Quavo)-2017
+483,Carly Rae Jepsen,Cut To The Feeling,2017,0.091,0.071,-0.003,1e-05,0.0006,0.003,0.065,0.115,208.0,Carly Rae Jepsen-Cut To The Feeling-2017
+484,Robin Schulz,OK - Spotify Version,2017,0.081,0.065,-0.006,0.00012,0.0006,0.0013,0.058,0.122,189.0,Robin Schulz-OK - Spotify Version-2017
+485,Katy Perry,Bon appétit,2017,0.079,0.08,-0.006,0.00013,0.0006,0.0022,0.052,0.106,228.0,Katy Perry-Bon appétit-2017
+486,Lana Del Rey,Summer Bummer (feat. A$AP Rocky & Playboi Carti),2017,0.057,0.076,-0.009,2e-05,0.0013,0.002,0.014,0.135,261.0,Lana Del Rey-Summer Bummer (feat. A$AP Rocky & Playboi Carti)-2017
+487,Zedd,Get Low (with Liam Payne),2017,0.093,0.072,-0.004,3e-05,0.0005,0.0005,0.054,0.108,205.0,Zedd-Get Low (with Liam Payne)-2017
+488,DNCE,Kissing Strangers,2017,0.074,0.077,-0.006,5e-05,0.0004,0.0009,0.086,0.12,202.0,DNCE-Kissing Strangers-2017
+489,Niall Horan,Slow Hands,2017,0.042,0.074,-0.007,1e-05,0.0005,0.0006,0.085,0.086,188.0,Niall Horan-Slow Hands-2017
+490,Miley Cyrus,Younger Now,2017,0.087,0.055,-0.005,0.0,0.0006,0.0014,0.033,0.122,249.0,Miley Cyrus-Younger Now-2017
+491,DNCE,Body Moves,2017,0.069,0.065,-0.005,0.0,0.0004,0.0004,0.086,0.102,236.0,DNCE-Body Moves-2017
+492,Lost Frequencies,Reality (feat. Janieck Devy) - Radio Edit,2017,0.064,0.073,-0.007,2e-05,0.0004,0.0008,0.053,0.122,158.0,Lost Frequencies-Reality (feat. Janieck Devy) - Radio Edit-2017
+493,Fifth Harmony,Angel,2017,0.053,0.074,-0.006,0.0,0.0004,0.0035,0.013,0.124,189.0,Fifth Harmony-Angel-2017
+494,Little Mix,Touch (feat. Kid Ink),2017,0.075,0.064,-0.004,4e-05,0.0011,0.0049,0.053,0.102,203.0,Little Mix-Touch (feat. Kid Ink)-2017
+495,Charlie Puth,We Don't Talk Anymore - DROELOE Remix,2017,0.082,0.07,-0.005,0.00049,0.0022,0.0045,0.067,0.1,218.0,Charlie Puth-We Don't Talk Anymore - DROELOE Remix-2017
+496,Cashmere Cat,Love Incredible (feat. Camila Cabello),2017,0.05,0.037,-0.009,6e-05,0.0012,0.002,0.021,0.167,180.0,Cashmere Cat-Love Incredible (feat. Camila Cabello)-2017
+497,OneRepublic,No Vacancy (with Sebastián Yatra),2017,0.076,0.069,-0.004,8e-05,0.0004,0.0014,0.059,0.1,223.0,OneRepublic-No Vacancy (with Sebastián Yatra)-2017
+498,Galantis,Rich Boy,2017,0.09,0.074,-0.002,7e-05,0.0005,0.0008,0.065,0.11,184.0,Galantis-Rich Boy-2017
+499,Lana Del Rey,Lust for Life (with The Weeknd),2017,0.067,0.051,-0.009,0.00058,0.0006,0.0036,0.027,0.1,264.0,Lana Del Rey-Lust for Life (with The Weeknd)-2017
+500,Pitbull,Greenlight (feat. Flo Rida & LunchMoney Lewis),2017,0.083,0.07,-0.006,0.00028,0.0027,0.0036,0.063,0.115,245.0,Pitbull-Greenlight (feat. Flo Rida & LunchMoney Lewis)-2017
+501,Tove Lo,Influence,2017,0.059,0.077,-0.01,1e-04,0.0005,0.0011,0.033,0.105,225.0,Tove Lo-Influence-2017
+502,Nick Jonas,Remember I Told You,2017,0.053,0.068,-0.006,0.00014,0.0028,0.0004,0.084,0.113,202.0,Nick Jonas-Remember I Told You-2017
+503,Pitbull,Messin' Around,2017,0.081,0.057,-0.005,2e-05,0.0005,0.0004,0.078,0.158,223.0,Pitbull-Messin' Around-2017
+504,Adele,Water Under the Bridge,2017,0.084,0.06,-0.007,2e-05,0.0007,0.0011,0.047,0.095,240.0,Adele-Water Under the Bridge-2017
+505,Sia,Free Me,2017,0.046,0.027,-0.004,0.00085,0.0003,0.0014,0.021,0.087,286.0,Sia-Free Me-2017
+506,DNCE,Kissing Strangers - Remix,2017,0.077,0.076,-0.006,8e-05,0.0005,0.0008,0.081,0.12,202.0,DNCE-Kissing Strangers - Remix-2017
+507,Coldplay,A L I E N S,2017,0.088,0.043,-0.005,0.0,0.0004,0.0021,0.025,0.148,282.0,Coldplay-A L I E N S-2017
+508,Calvin Harris,One Kiss (with Dua Lipa),2018,0.086,0.079,-0.003,4e-05,0.0011,0.0008,0.059,0.124,215.0,Calvin Harris-One Kiss (with Dua Lipa)-2018
+509,Camila Cabello,Havana (feat. Young Thug),2018,0.052,0.077,-0.004,0.00018,0.0003,0.0013,0.039,0.105,217.0,Camila Cabello-Havana (feat. Young Thug)-2018
+510,Cardi B,I Like It,2018,0.073,0.082,-0.004,1e-04,0.0013,0.0037,0.065,0.136,253.0,Cardi B-I Like It-2018
+511,Dua Lipa,New Rules,2018,0.07,0.076,-0.006,0.0,0.0007,0.0015,0.061,0.116,209.0,Dua Lipa-New Rules-2018
+512,Shawn Mendes,There's Nothing Holdin' Me Back,2018,0.081,0.087,-0.004,0.00038,0.0006,0.0008,0.097,0.122,199.0,Shawn Mendes-There's Nothing Holdin' Me Back-2018
+513,Ariana Grande,no tears left to cry,2018,0.071,0.07,-0.006,4e-05,0.0006,0.0029,0.035,0.122,206.0,Ariana Grande-no tears left to cry-2018
+514,Dua Lipa,IDGAF,2018,0.054,0.084,-0.006,4e-05,0.0009,0.0008,0.051,0.097,218.0,Dua Lipa-IDGAF-2018
+515,Shawn Mendes,In My Blood,2018,0.071,0.062,-0.007,6e-05,0.0007,0.0013,0.049,0.14,211.0,Shawn Mendes-In My Blood-2018
+516,Selena Gomez,Wolves,2018,0.08,0.072,-0.005,0.00012,0.0004,0.002,0.031,0.125,198.0,Selena Gomez-Wolves-2018
+517,ZAYN,Dusk Till Dawn - Radio Edit,2018,0.044,0.026,-0.007,1e-04,0.0004,0.0011,0.01,0.18,239.0,ZAYN-Dusk Till Dawn - Radio Edit-2018
+518,Charlie Puth,Attention,2018,0.061,0.078,-0.005,0.00011,0.0005,0.0013,0.08,0.1,209.0,Charlie Puth-Attention-2018
+519,Silk City,Electricity (with Dua Lipa),2018,0.067,0.059,-0.006,1e-05,0.0005,0.0034,0.051,0.118,238.0,Silk City-Electricity (with Dua Lipa)-2018
+520,Rihanna,Love On The Brain,2018,0.064,0.051,-0.005,7e-05,0.0005,0.0008,0.038,0.172,224.0,Rihanna-Love On The Brain-2018
+521,Hailee Steinfeld,"Let Me Go (with Alesso, Florida Georgia Line & watt)",2018,0.071,0.066,-0.004,3e-05,0.0005,0.0008,0.074,0.103,175.0,"Hailee Steinfeld-Let Me Go (with Alesso, Florida Georgia Line & watt)-2018"
+522,Marshmello,Silence,2018,0.076,0.052,-0.003,0.00026,0.0009,0.0017,0.029,0.142,181.0,Marshmello-Silence-2018
+523,Demi Lovato,Sorry Not Sorry,2018,0.064,0.071,-0.007,2e-05,0.0023,0.0026,0.089,0.144,204.0,Demi Lovato-Sorry Not Sorry-2018
+524,Lady Gaga,Shallow - Radio Edit,2018,0.033,0.057,-0.007,0.00042,0.0003,0.0009,0.028,0.096,217.0,Lady Gaga-Shallow - Radio Edit-2018
+525,Rudimental,These Days,2018,0.081,0.065,-0.004,0.00019,0.0005,0.0017,0.055,0.092,211.0,Rudimental-These Days-2018
+526,Maroon 5,What Lovers Do (feat. SZA),2018,0.06,0.08,-0.005,8e-05,0.0006,0.001,0.042,0.11,200.0,Maroon 5-What Lovers Do (feat. SZA)-2018
+527,Bruno Mars,Finesse - Remix; feat. Cardi B,2018,0.086,0.07,-0.005,2e-05,0.001,0.0002,0.093,0.105,217.0,Bruno Mars-Finesse - Remix; feat. Cardi B-2018
+528,Ed Sheeran,Perfect Duet (Ed Sheeran & Beyoncé),2018,0.03,0.059,-0.007,0.00078,0.0003,0.0012,0.036,0.095,260.0,Ed Sheeran-Perfect Duet (Ed Sheeran & Beyoncé)-2018
+529,Halsey,Bad At Love,2018,0.075,0.068,-0.004,6e-05,0.0003,0.0009,0.061,0.118,181.0,Halsey-Bad At Love-2018
+530,G-Eazy,Him & I (with Halsey),2018,0.073,0.059,-0.006,5e-05,0.0009,0.0031,0.019,0.088,269.0,G-Eazy-Him & I (with Halsey)-2018
+531,Justin Bieber,Friends (with BloodPop®),2018,0.073,0.074,-0.005,0.0,0.0004,0.003,0.062,0.105,189.0,Justin Bieber-Friends (with BloodPop®)-2018
+532,DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),2018,0.067,0.067,-0.003,3e-05,0.0007,0.0012,0.063,0.098,204.0,DJ Khaled-Wild Thoughts (feat. Rihanna & Bryson Tiller)-2018
+533,Troye Sivan,My My My!,2018,0.046,0.07,-0.008,0.0,0.0008,0.0005,0.048,0.103,205.0,Troye Sivan-My My My!-2018
+534,Hailee Steinfeld,Capital Letters,2018,0.081,0.066,-0.006,3e-05,0.0008,0.0005,0.046,0.1,219.0,Hailee Steinfeld-Capital Letters-2018
+535,The Chainsmokers,Sick Boy,2018,0.058,0.066,-0.008,0.00011,0.0005,0.0012,0.045,0.09,193.0,The Chainsmokers-Sick Boy-2018
+536,Dan + Shay,Tequila,2018,0.059,0.047,-0.006,3e-05,0.0003,0.0013,0.05,0.086,196.0,Dan + Shay-Tequila-2018
+537,Taylor Swift,Look What You Made Me Do,2018,0.071,0.077,-0.006,0.0002,0.0012,0.0013,0.051,0.128,212.0,Taylor Swift-Look What You Made Me Do-2018
+538,Shawn Mendes,Youth (feat. Khalid),2018,0.06,0.053,-0.007,0.00056,0.0012,0.0013,0.032,0.1,191.0,Shawn Mendes-Youth (feat. Khalid)-2018
+539,Selena Gomez,Bad Liar,2018,0.041,0.097,-0.006,0.00019,0.0007,0.0008,0.073,0.121,215.0,Selena Gomez-Bad Liar-2018
+540,Rita Ora,Anywhere,2018,0.08,0.063,-0.004,4e-05,0.0006,0.001,0.032,0.107,215.0,Rita Ora-Anywhere-2018
+541,Justin Timberlake,Say Something,2018,0.063,0.071,-0.007,1e-04,0.0008,0.0008,0.037,0.097,279.0,Justin Timberlake-Say Something-2018
+542,Nicki Minaj,Chun-Li,2018,0.073,0.069,-0.005,0.00028,0.0037,0.0011,0.048,0.129,192.0,Nicki Minaj-Chun-Li-2018
+543,Harry Styles,Sign of the Times,2018,0.057,0.052,-0.005,3e-05,0.0003,0.0011,0.021,0.12,341.0,Harry Styles-Sign of the Times-2018
+544,Liam Payne,Familiar,2018,0.081,0.064,-0.005,2e-05,0.0033,0.0008,0.091,0.093,197.0,Liam Payne-Familiar-2018
+545,ZAYN,Let Me,2018,0.057,0.046,-0.006,0.00024,0.0005,0.001,0.019,0.168,185.0,ZAYN-Let Me-2018
+546,Ansel Elgort,Supernova,2018,0.062,0.077,-0.005,6e-05,0.001,0.0021,0.068,0.14,191.0,Ansel Elgort-Supernova-2018
+547,Shawn Mendes,Nervous,2018,0.062,0.084,-0.007,4e-05,0.0008,0.0013,0.074,0.122,164.0,Shawn Mendes-Nervous-2018
+548,Kygo,First Time,2018,0.059,0.063,-0.007,0.0002,0.0011,0.001,0.068,0.09,194.0,Kygo-First Time-2018
+549,Taylor Swift,End Game,2018,0.059,0.065,-0.006,1e-05,0.0006,0.0011,0.015,0.159,245.0,Taylor Swift-End Game-2018
+550,J Balvin,Mi Gente (feat. Beyoncé),2018,0.072,0.076,-0.006,2e-05,0.0008,0.0023,0.047,0.105,210.0,J Balvin-Mi Gente (feat. Beyoncé)-2018
+551,N.E.R.D,Lemon,2018,0.073,0.092,-0.007,0.0,0.0009,0.0012,0.02,0.095,220.0,N.E.R.D-Lemon-2018
+552,Liam Payne,For You (With Rita Ora),2018,0.08,0.054,-0.005,2e-05,0.0003,0.0042,0.018,0.113,243.0,Liam Payne-For You (With Rita Ora)-2018
+553,Dua Lipa,Want To,2018,0.069,0.057,-0.005,8e-05,0.0012,0.0006,0.032,0.092,212.0,Dua Lipa-Want To-2018
+554,Hayley Kiyoko,What I Need (feat. Kehlani),2018,0.079,0.063,-0.004,5e-05,0.0006,0.0016,0.041,0.104,220.0,Hayley Kiyoko-What I Need (feat. Kehlani)-2018
+555,Maroon 5,Wait,2018,0.06,0.066,-0.005,1e-04,0.0006,0.0011,0.045,0.126,191.0,Maroon 5-Wait-2018
+556,P!nk,What About Us,2018,0.059,0.039,-0.006,3e-05,0.0006,0.0009,0.019,0.114,272.0,P!nk-What About Us-2018
+557,DNCE,Kissing Strangers,2018,0.074,0.077,-0.006,5e-05,0.0004,0.0009,0.086,0.12,202.0,DNCE-Kissing Strangers-2018
+558,David Guetta,2U (feat. Justin Bieber),2018,0.061,0.053,-0.007,0.00023,0.0006,0.0023,0.053,0.145,195.0,David Guetta-2U (feat. Justin Bieber)-2018
+559,Eminem,Walk On Water (feat. Beyoncé),2018,0.044,0.048,-0.01,0.00081,0.0024,0.0064,0.062,0.082,304.0,Eminem-Walk On Water (feat. Beyoncé)-2018
+560,Niall Horan,This Town,2018,0.041,0.068,-0.008,0.0007,0.0003,0.0012,0.02,0.112,233.0,Niall Horan-This Town-2018
+561,Rita Ora,"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",2018,0.069,0.073,-0.004,2e-05,0.0005,0.001,0.042,0.094,221.0,"Rita Ora-Girls (feat. Cardi B, Bebe Rexha & Charli XCX)-2018"
+562,Enrique Iglesias,MOVE TO MIAMI,2018,0.087,0.076,-0.004,3e-05,0.0005,0.0007,0.09,0.1,169.0,Enrique Iglesias-MOVE TO MIAMI-2018
+563,Cashmere Cat,Miss You (with Major Lazer & Tory Lanez),2018,0.064,0.075,-0.005,0.00025,0.0009,0.0011,0.045,0.1,186.0,Cashmere Cat-Miss You (with Major Lazer & Tory Lanez)-2018
+564,Justin Timberlake,Filthy,2018,0.058,0.075,-0.006,4e-05,0.0014,0.0025,0.065,0.097,294.0,Justin Timberlake-Filthy-2018
+565,Camila Cabello,Never Be the Same - Radio Edit,2018,0.069,0.063,-0.004,0.00016,0.0009,0.0012,0.025,0.13,227.0,Camila Cabello-Never Be the Same - Radio Edit-2018
+566,Bebe Rexha,Ferrari,2018,0.048,0.058,-0.006,2e-05,0.0003,0.001,0.042,0.077,213.0,Bebe Rexha-Ferrari-2018
+567,Justin Timberlake,Supplies,2018,0.055,0.079,-0.007,1e-05,0.0005,0.0013,0.023,0.12,226.0,Justin Timberlake-Supplies-2018
+568,RedOne,Boom Boom,2018,0.076,0.075,-0.008,0.0,0.0005,0.002,0.058,0.11,248.0,RedOne-Boom Boom-2018
+569,Taylor Swift,...Ready For It? - BloodPop® Remix,2018,0.084,0.058,-0.005,0.00013,0.0022,0.001,0.05,0.16,190.0,Taylor Swift-...Ready For It? - BloodPop® Remix-2018
+570,Cardi B,Drip (feat. Migos),2018,0.059,0.097,-0.008,5e-05,0.0026,0.0008,0.027,0.13,264.0,Cardi B-Drip (feat. Migos)-2018
+571,Demi Lovato,Tell Me You Love Me - NOTD Remix,2018,0.077,0.058,-0.005,5e-05,0.0008,0.0009,0.076,0.102,182.0,Demi Lovato-Tell Me You Love Me - NOTD Remix-2018
+572,Maroon 5,Memories,2019,0.032,0.076,-0.007,0.00084,0.0005,0.0008,0.057,0.091,189.0,Maroon 5-Memories-2019
+573,Selena Gomez,Lose You To Love Me,2019,0.034,0.051,-0.009,0.00058,0.0004,0.0021,0.009,0.102,206.0,Selena Gomez-Lose You To Love Me-2019
+574,Lewis Capaldi,Someone You Loved,2019,0.041,0.05,-0.006,0.00075,0.0003,0.0011,0.045,0.11,182.0,Lewis Capaldi-Someone You Loved-2019
+575,Shawn Mendes,Señorita,2019,0.054,0.076,-0.006,4e-05,0.0003,0.0009,0.075,0.117,191.0,Shawn Mendes-Señorita-2019
+576,Sam Smith,How Do You Sleep?,2019,0.068,0.048,-0.005,0.00015,0.0009,0.0008,0.035,0.111,202.0,Sam Smith-How Do You Sleep?-2019
+577,Ed Sheeran,South of the Border (feat. Camila Cabello & Cardi B),2019,0.062,0.086,-0.006,0.00015,0.0008,0.0009,0.067,0.098,204.0,Ed Sheeran-South of the Border (feat. Camila Cabello & Cardi B)-2019
+578,SHAED,Trampoline (with ZAYN),2019,0.046,0.062,-0.006,0.00056,0.0003,0.0014,0.05,0.127,184.0,SHAED-Trampoline (with ZAYN)-2019
+579,Marshmello,Happier,2019,0.079,0.069,-0.003,0.00019,0.0005,0.0017,0.067,0.1,214.0,Marshmello-Happier-2019
+580,Lizzo,Truth Hurts,2019,0.062,0.072,-0.003,0.00011,0.0011,0.0012,0.041,0.158,173.0,Lizzo-Truth Hurts-2019
+581,Lizzo,Good as Hell (feat. Ariana Grande) - Remix,2019,0.089,0.067,-0.003,0.0003,0.0006,0.0074,0.048,0.096,159.0,Lizzo-Good as Hell (feat. Ariana Grande) - Remix-2019
+582,Kygo,Higher Love,2019,0.068,0.069,-0.007,2e-05,0.0003,0.001,0.04,0.104,228.0,Kygo-Higher Love-2019
+583,Jonas Brothers,Only Human,2019,0.05,0.08,-0.006,0.00011,0.0007,0.0006,0.087,0.094,183.0,Jonas Brothers-Only Human-2019
+584,Ed Sheeran,Beautiful People (feat. Khalid),2019,0.065,0.064,-0.008,0.00012,0.0019,0.0008,0.055,0.093,198.0,Ed Sheeran-Beautiful People (feat. Khalid)-2019
+585,Jonas Brothers,Sucker,2019,0.073,0.084,-0.005,4e-05,0.0006,0.0011,0.095,0.138,181.0,Jonas Brothers-Sucker-2019
+586,Mabel,Don't Call Me Up,2019,0.088,0.067,-0.003,0.0003,0.0015,0.0008,0.023,0.099,178.0,Mabel-Don't Call Me Up-2019
+587,Ed Sheeran,I Don't Care (with Justin Bieber),2019,0.068,0.08,-0.005,9e-05,0.0004,0.0009,0.084,0.102,220.0,Ed Sheeran-I Don't Care (with Justin Bieber)-2019
+588,Khalid,Talk (feat. Disclosure),2019,0.04,0.09,-0.009,5e-05,0.0013,0.0006,0.035,0.136,198.0,Khalid-Talk (feat. Disclosure)-2019
+589,Calvin Harris,Giant (with Rag'n'Bone Man),2019,0.089,0.081,-0.004,2e-05,0.0004,0.0008,0.061,0.122,229.0,Calvin Harris-Giant (with Rag'n'Bone Man)-2019
+590,The Chainsmokers,Takeaway,2019,0.051,0.053,-0.008,0.00013,0.0003,0.001,0.035,0.1,210.0,The Chainsmokers-Takeaway-2019
+591,R3HAB,All Around The World (La La La),2019,0.086,0.073,-0.005,0.00048,0.0003,0.0011,0.052,0.125,148.0,R3HAB-All Around The World (La La La)-2019
+592,Maroon 5,Girls Like You (feat. Cardi B),2019,0.054,0.085,-0.007,0.00057,0.0005,0.0013,0.045,0.125,236.0,Maroon 5-Girls Like You (feat. Cardi B)-2019
+593,The Chainsmokers,Call You Mine,2019,0.07,0.059,-0.006,0.0002,0.0003,0.0034,0.052,0.104,218.0,The Chainsmokers-Call You Mine-2019
+594,Chris Brown,No Guidance (feat. Drake),2019,0.045,0.07,-0.007,0.00012,0.0015,0.0016,0.014,0.093,261.0,Chris Brown-No Guidance (feat. Drake)-2019
+595,Ed Sheeran,Antisocial (with Travis Scott),2019,0.082,0.072,-0.005,0.00013,0.0005,0.0036,0.091,0.152,162.0,Ed Sheeran-Antisocial (with Travis Scott)-2019
+596,DJ Snake,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",2019,0.08,0.084,-0.004,0.00016,0.0023,0.0006,0.062,0.096,213.0,"DJ Snake-Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)-2019"
+597,Daddy Yankee,Con Calma - Remix,2019,0.087,0.074,-0.003,0.00017,0.0005,0.0004,0.061,0.094,181.0,Daddy Yankee-Con Calma - Remix-2019
+598,Mark Ronson,Find U Again (feat. Camila Cabello),2019,0.066,0.061,-0.007,1e-05,0.0003,0.002,0.016,0.104,176.0,Mark Ronson-Find U Again (feat. Camila Cabello)-2019
+599,Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),2019,0.079,0.075,-0.006,0.00021,0.0012,0.0007,0.061,0.095,206.0,Ed Sheeran-Cross Me (feat. Chance the Rapper & PnB Rock)-2019
+600,DJ Khaled,"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",2019,0.076,0.053,-0.005,7e-05,0.0034,0.0009,0.065,0.136,260.0,"DJ Khaled-No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)-2019"
+601,Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),2019,0.079,0.06,-0.006,1e-05,0.0007,0.0042,0.024,0.114,217.0,Mark Ronson-Nothing Breaks Like a Heart (feat. Miley Cyrus)-2019
+602,The Chainsmokers,Kills You Slowly,2019,0.044,0.07,-0.009,6e-05,0.0006,0.0013,0.023,0.15,213.0,The Chainsmokers-Kills You Slowly-2019
+603,The Weeknd,Blinding Lights,2020,0.73,0.514,-5.934,0.00146,0.0598,0.0897,0.334,171.005,200.04,The Weeknd-Blinding Lights-2020
+604,Tones And I,Dance Monkey,2020,0.593,0.825,-6.401,0.688,0.0988,0.17,0.54,98.078,209.76,Tones And I-Dance Monkey-2020
+605,Roddy Ricch,The Box,2020,0.586,0.896,-6.687,0.104,0.0559,0.79,0.642,116.971,196.65,Roddy Ricch-The Box-2020
+606,SAINt JHN,Roses - Imanbek Remix,2020,0.721,0.785,-5.457,0.0149,0.0506,0.285,0.894,121.962,176.22,SAINt JHN-Roses - Imanbek Remix-2020
+607,Dua Lipa,Don't Start Now,2020,0.793,0.793,-4.521,0.0123,0.083,0.0951,0.679,123.95,183.29,Dua Lipa-Don't Start Now-2020
+608,DaBaby,ROCKSTAR (feat. Roddy Ricch),2020,0.69,0.746,-7.956,0.247,0.164,0.101,0.497,89.977,181.73,DaBaby-ROCKSTAR (feat. Roddy Ricch)-2020
+609,Harry Styles,Watermelon Sugar,2020,0.816,0.548,-4.209,0.122,0.0465,0.335,0.557,95.39,174.0,Harry Styles-Watermelon Sugar-2020
+610,Powfu,death bed (coffee for your head),2020,0.431,0.726,-8.765,0.731,0.135,0.696,0.348,144.026,173.33,Powfu-death bed (coffee for your head)-2020
+611,Trevor Daniel,Falling,2020,0.43,0.784,-8.756,0.123,0.0364,0.0887,0.236,127.087,159.38,Trevor Daniel-Falling-2020
+612,Lewis Capaldi,Someone You Loved,2020,0.405,0.501,-5.679,0.751,0.0319,0.105,0.446,109.891,182.16,Lewis Capaldi-Someone You Loved-2020
+613,KAROL G,Tusa,2020,0.715,0.803,-3.28,0.295,0.298,0.0574,0.574,101.085,200.96,KAROL G-Tusa-2020
+614,Arizona Zervas,ROXANNE,2020,0.601,0.621,-5.616,0.0522,0.148,0.46,0.457,116.735,163.64,Arizona Zervas-ROXANNE-2020
+615,Post Malone,Circles,2020,0.762,0.695,-3.497,0.192,0.0395,0.0863,0.553,120.042,215.28,Post Malone-Circles-2020
+616,Lil Mosey,Blueberry Faygo,2020,0.554,0.774,-7.909,0.207,0.0383,0.132,0.349,99.034,162.55,Lil Mosey-Blueberry Faygo-2020
+617,Justin Bieber,Intentions (feat. Quavo),2020,0.546,0.806,-6.637,0.3,0.0575,0.102,0.874,147.986,212.87,Justin Bieber-Intentions (feat. Quavo)-2020
+618,Drake,Toosie Slide,2020,0.49,0.83,-8.82,0.289,0.209,0.113,0.845,81.604,247.06,Drake-Toosie Slide-2020
+619,Lewis Capaldi,Before You Go,2020,0.575,0.459,-4.858,0.604,0.0573,0.0885,0.183,111.881,215.11,Lewis Capaldi-Before You Go-2020
+620,Doja Cat,Say So,2020,0.673,0.787,-4.577,0.256,0.158,0.0904,0.786,110.962,237.89,Doja Cat-Say So-2020
+621,Maroon 5,Memories,2020,0.32,0.764,-7.209,0.837,0.0546,0.0822,0.575,91.019,189.49,Maroon 5-Memories-2020
+622,Future,Life Is Good (feat. Drake),2020,0.574,0.795,-6.903,0.067,0.487,0.15,0.537,142.053,237.92,Future-Life Is Good (feat. Drake)-2020
+623,Jawsh 685,Savage Love (Laxed - Siren Beat),2020,0.481,0.767,-8.52,0.234,0.0803,0.269,0.761,150.076,171.38,Jawsh 685-Savage Love (Laxed - Siren Beat)-2020
+624,Harry Styles,Adore You,2020,0.771,0.676,-3.675,0.0237,0.0483,0.102,0.569,99.048,207.13,Harry Styles-Adore You-2020
+625,Topic,Breaking Me,2020,0.72,0.789,-5.652,0.223,0.218,0.129,0.664,122.031,166.79,Topic-Breaking Me-2020
+626,24kGoldn,Mood (feat. iann dior),2020,0.722,0.7,-3.558,0.221,0.0369,0.272,0.756,90.989,140.53,24kGoldn-Mood (feat. iann dior)-2020
+627,Billie Eilish,everything i wanted,2020,0.225,0.704,-14.454,0.902,0.0994,0.106,0.243,120.006,245.43,Billie Eilish-everything i wanted-2020
+628,Shawn Mendes,Señorita,2020,0.548,0.759,-6.049,0.0392,0.029,0.0828,0.749,116.967,190.8,Shawn Mendes-Señorita-2020
+629,Billie Eilish,bad guy,2020,0.425,0.701,-10.965,0.328,0.375,0.1,0.562,135.128,194.09,Billie Eilish-bad guy-2020
+630,Cardi B,WAP (feat. Megan Thee Stallion),2020,0.454,0.935,-7.509,0.0194,0.375,0.0824,0.357,133.073,187.54,Cardi B-WAP (feat. Megan Thee Stallion)-2020
+631,Surfaces,Sunday Best,2020,0.525,0.878,-6.832,0.183,0.0578,0.0714,0.694,112.022,158.57,Surfaces-Sunday Best-2020
+632,Eminem,Godzilla (feat. Juice WRLD),2020,0.745,0.808,-5.26,0.145,0.342,0.292,0.829,165.995,210.8,Eminem-Godzilla (feat. Juice WRLD)-2020
+633,Justin Bieber,Yummy,2020,0.506,0.676,-6.652,0.345,0.0958,0.118,0.497,145.842,208.52,Justin Bieber-Yummy-2020
+634,Dua Lipa,Break My Heart,2020,0.729,0.73,-3.434,0.167,0.0883,0.349,0.467,113.013,221.82,Dua Lipa-Break My Heart-2020
+635,BTS,Dynamite,2020,0.765,0.746,-4.41,0.0112,0.0993,0.0936,0.737,114.044,199.05,BTS-Dynamite-2020
+636,BENEE,Supalonely (feat. Gus Dapperton),2020,0.631,0.862,-4.746,0.291,0.0515,0.123,0.841,128.978,223.49,BENEE-Supalonely (feat. Gus Dapperton)-2020
+637,Surf Mesa,ily (i love you baby) (feat. Emilee),2020,0.774,0.674,-7.567,0.0686,0.0892,0.393,0.33,112.05,176.55,Surf Mesa-ily (i love you baby) (feat. Emilee)-2020
+638,Lady Gaga,Rain On Me (with Ariana Grande),2020,0.855,0.672,-3.764,0.021,0.0397,0.323,0.646,123.056,182.2,Lady Gaga-Rain On Me (with Ariana Grande)-2020
+639,Travis Scott,HIGHEST IN THE ROOM,2020,0.427,0.598,-8.764,0.0546,0.0317,0.21,0.0605,76.469,175.72,Travis Scott-HIGHEST IN THE ROOM-2020
+640,Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2020,0.522,0.755,-4.368,0.533,0.0575,0.0685,0.925,89.96,157.56,Post Malone-Sunflower - Spider-Man: Into the Spider-Verse-2020
+641,Maluma,Hawái,2020,0.727,0.783,-3.454,0.185,0.389,0.0626,0.558,180.067,199.11,Maluma-Hawái-2020
+642,Regard,Ride It,2020,0.751,0.88,-4.258,0.177,0.0874,0.106,0.884,117.948,157.61,Regard-Ride It-2020
+643,Travis Scott,goosebumps,2020,0.728,0.841,-3.37,0.0847,0.0484,0.149,0.43,130.049,243.84,Travis Scott-goosebumps-2020
+644,Black Eyed Peas,RITMO (Bad Boys For Life),2020,0.704,0.723,-7.088,0.0259,0.0571,0.792,0.684,105.095,214.94,Black Eyed Peas-RITMO (Bad Boys For Life)-2020
+645,THE SCOTTS,THE SCOTTS,2020,0.537,0.716,-7.648,0.233,0.0514,0.157,0.28,129.979,165.98,THE SCOTTS-THE SCOTTS-2020
+646,Bad Bunny,Safaera,2020,0.829,0.607,-4.074,0.0103,0.379,0.107,0.685,96.172,295.18,Bad Bunny-Safaera-2020
+647,Billie Eilish,lovely (with Khalid),2020,0.296,0.351,-10.109,0.934,0.0333,0.095,0.12,115.284,200.19,Billie Eilish-lovely (with Khalid)-2020
+648,Juice WRLD,Lucid Dreams,2020,0.566,0.511,-7.23,0.349,0.2,0.34,0.218,83.903,239.84,Juice WRLD-Lucid Dreams-2020
+649,Ariana Grande,Stuck with U (with Justin Bieber),2020,0.45,0.597,-6.658,0.223,0.0418,0.382,0.537,178.765,228.48,Ariana Grande-Stuck with U (with Justin Bieber)-2020
+650,JP Saxe,If the World Was Ending - feat. Julia Michaels,2020,0.473,0.464,-10.086,0.866,0.129,0.109,0.604,75.801,208.69,JP Saxe-If the World Was Ending - feat. Julia Michaels-2020
+651,Dua Lipa,Physical,2020,0.844,0.647,-3.756,0.0137,0.0457,0.102,0.746,146.967,193.83,Dua Lipa-Physical-2020
+652,Travis Scott,SICKO MODE,2020,0.73,0.834,-3.714,0.00513,0.222,0.124,0.446,155.008,312.82,Travis Scott-SICKO MODE-2020
+653,Olivia Rodrigo,drivers license,2021,0.431,0.561,-8.81,0.768,0.0578,0.106,0.137,143.875,242.01,Olivia Rodrigo-drivers license-2021
+654,Lil Nas X,MONTERO (Call Me By Your Name),2021,0.503,0.593,-6.725,0.293,0.22,0.405,0.71,178.781,137.7,Lil Nas X-MONTERO (Call Me By Your Name)-2021
+655,The Kid LAROI,STAY (with Justin Bieber),2021,0.764,0.591,-5.484,0.0383,0.0483,0.103,0.478,169.928,141.81,The Kid LAROI-STAY (with Justin Bieber)-2021
+656,Olivia Rodrigo,good 4 u,2021,0.664,0.563,-5.044,0.335,0.154,0.0849,0.688,166.928,178.15,Olivia Rodrigo-good 4 u-2021
+657,Dua Lipa,Levitating (feat. DaBaby),2021,0.825,0.702,-3.787,0.00883,0.0601,0.0674,0.915,102.977,203.06,Dua Lipa-Levitating (feat. DaBaby)-2021
+658,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),2021,0.696,0.677,-6.181,0.321,0.119,0.42,0.464,90.03,198.08,Justin Bieber-Peaches (feat. Daniel Caesar & Giveon)-2021
+659,Doja Cat,Kiss Me More (feat. SZA),2021,0.705,0.764,-3.463,0.259,0.0284,0.12,0.781,110.97,208.67,Doja Cat-Kiss Me More (feat. SZA)-2021
+660,The Weeknd,Blinding Lights,2021,0.73,0.514,-5.934,0.00146,0.0598,0.0897,0.334,171.005,200.04,The Weeknd-Blinding Lights-2021
+661,Glass Animals,Heat Waves,2021,0.525,0.761,-6.9,0.44,0.0944,0.0921,0.531,80.87,238.8,Glass Animals-Heat Waves-2021
+662,Måneskin,Beggin',2021,0.8,0.714,-4.808,0.127,0.0504,0.359,0.589,134.002,211.56,Måneskin-Beggin'-2021
+663,Masked Wolf,Astronaut In The Ocean,2021,0.695,0.778,-6.865,0.175,0.0913,0.15,0.472,149.996,132.78,Masked Wolf-Astronaut In The Ocean-2021
+664,Bad Bunny,DÁKITI,2021,0.573,0.731,-10.059,0.401,0.0544,0.113,0.145,109.928,205.09,Bad Bunny-DÁKITI-2021
+665,Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),2021,0.691,0.741,-7.395,0.0221,0.0672,0.0476,0.892,150.087,212.35,Lil Nas X-INDUSTRY BABY (feat. Jack Harlow)-2021
+666,Ed Sheeran,Bad Habits,2021,0.893,0.807,-3.745,0.0451,0.0347,0.366,0.537,126.011,230.75,Ed Sheeran-Bad Habits-2021
+667,The Weeknd,Save Your Tears,2021,0.826,0.68,-5.487,0.0212,0.0309,0.543,0.644,118.051,215.63,The Weeknd-Save Your Tears-2021
+668,BTS,Butter,2021,0.459,0.759,-5.187,0.00323,0.0948,0.0906,0.695,109.997,164.44,BTS-Butter-2021
+669,Bruno Mars,Leave The Door Open,2021,0.616,0.586,-7.964,0.182,0.0324,0.0927,0.719,148.088,242.1,Bruno Mars-Leave The Door Open-2021
+670,Olivia Rodrigo,deja vu,2021,0.612,0.442,-7.222,0.584,0.112,0.37,0.178,180.917,215.51,Olivia Rodrigo-deja vu-2021
+671,Rauw Alejandro,Todo De Ti,2021,0.719,0.78,-3.613,0.302,0.0506,0.0931,0.336,127.962,199.6,Rauw Alejandro-Todo De Ti-2021
+672,24kGoldn,Mood (feat. iann dior),2021,0.716,0.701,-3.671,0.174,0.0361,0.324,0.732,91.007,140.53,24kGoldn-Mood (feat. iann dior)-2021
+673,Tiësto,The Business,2021,0.62,0.798,-7.079,0.414,0.232,0.112,0.235,120.031,164.0,Tiësto-The Business-2021
+674,BTS,Dynamite,2021,0.765,0.746,-4.41,0.0112,0.0993,0.0936,0.737,114.044,199.05,BTS-Dynamite-2021
+675,Bad Bunny,Yonaguni,2021,0.648,0.644,-4.601,0.276,0.118,0.135,0.44,179.951,206.71,Bad Bunny-Yonaguni-2021
+676,Harry Styles,Watermelon Sugar,2021,0.816,0.548,-4.209,0.122,0.0465,0.335,0.557,95.39,174.0,Harry Styles-Watermelon Sugar-2021
+677,Riton,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,2021,0.862,0.824,-3.424,0.0076,0.126,0.303,0.801,122.98,169.15,Riton-Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit-2021
+678,Kali Uchis,telepatía,2021,0.524,0.653,-9.016,0.112,0.0502,0.203,0.553,83.97,160.19,Kali Uchis-telepatía-2021
+679,The Kid LAROI,WITHOUT YOU,2021,0.413,0.662,-7.357,0.213,0.0299,0.134,0.467,93.005,161.38,The Kid LAROI-WITHOUT YOU-2021
+680,Giveon,Heartbreak Anniversary,2021,0.465,0.449,-8.964,0.524,0.0791,0.303,0.543,89.087,198.37,Giveon-Heartbreak Anniversary-2021
+681,Olivia Rodrigo,traitor,2021,0.339,0.38,-7.885,0.691,0.0338,0.12,0.0849,100.607,229.23,Olivia Rodrigo-traitor-2021
+682,Farruko,Pepas,2021,0.766,0.762,-3.955,0.00776,0.0343,0.128,0.442,130.001,287.12,Farruko-Pepas-2021
+683,Ariana Grande,positions,2021,0.802,0.737,-4.771,0.468,0.0878,0.0931,0.682,144.015,172.32,Ariana Grande-positions-2021
+684,Lewis Capaldi,Someone You Loved,2021,0.405,0.501,-5.679,0.751,0.0319,0.105,0.446,109.891,182.16,Lewis Capaldi-Someone You Loved-2021
+685,Myke Towers,Bandido,2021,0.617,0.713,-4.637,0.122,0.0887,0.0962,0.682,168.021,232.85,Myke Towers-Bandido-2021
+686,Måneskin,I WANNA BE YOUR SLAVE,2021,0.608,0.75,-4.008,0.00165,0.0387,0.178,0.958,132.507,173.35,Måneskin-I WANNA BE YOUR SLAVE-2021
+687,Polo G,RAPSTAR,2021,0.536,0.789,-6.862,0.41,0.242,0.129,0.437,81.039,165.93,Polo G-RAPSTAR-2021
+688,Bad Bunny,LA NOCHE DE ANOCHE,2021,0.618,0.856,-4.892,0.0303,0.286,0.0866,0.391,81.993,203.2,Bad Bunny-LA NOCHE DE ANOCHE-2021
+689,Doja Cat,Streets,2021,0.463,0.749,-8.433,0.21,0.0842,0.338,0.189,90.035,226.99,Doja Cat-Streets-2021
+690,The Neighbourhood,Sweater Weather,2021,0.807,0.612,-2.81,0.0495,0.0336,0.101,0.398,124.053,240.4,The Neighbourhood-Sweater Weather-2021
+691,Los Legendarios,Fiel,2021,0.701,0.849,-4.407,0.407,0.06,0.112,0.505,98.005,261.67,Los Legendarios-Fiel-2021
+692,Doja Cat,Need to Know,2021,0.609,0.664,-6.509,0.304,0.0707,0.0926,0.194,130.041,210.56,Doja Cat-Need to Know-2021
+693,Dua Lipa,Don't Start Now,2021,0.793,0.793,-4.521,0.0123,0.083,0.0951,0.679,123.95,183.29,Dua Lipa-Don't Start Now-2021
+694,Internet Money,Lemonade (feat. Gunna Don Toliver & NAV),2021,0.658,0.8,-6.142,0.25,0.079,0.111,0.462,140.042,195.43,Internet Money-Lemonade (feat. Gunna Don Toliver & NAV)-2021
+695,Doja Cat,Woman,2021,0.764,0.824,-4.175,0.0888,0.0854,0.117,0.881,107.998,172.63,Doja Cat-Woman-2021
+696,Duncan Laurence,Arcade,2021,0.35,0.453,-11.639,0.827,0.0425,0.144,0.279,72.017,185.15,Duncan Laurence-Arcade-2021
+697,SZA,Good Days,2021,0.655,0.436,-8.37,0.499,0.0583,0.688,0.412,121.002,279.2,SZA-Good Days-2021
+698,J Balvin,Qué Más Pues?,2021,0.817,0.903,-3.972,0.0272,0.095,0.242,0.732,102.014,217.36,J Balvin-Qué Más Pues?-2021
+699,Joel Corry,Head & Heart (feat. MNEK),2021,0.874,0.734,-3.158,0.168,0.0662,0.0489,0.905,122.953,166.03,Joel Corry-Head & Heart (feat. MNEK)-2021
+700,Ariana Grande,34+35,2021,0.585,0.83,-6.476,0.237,0.094,0.248,0.485,109.978,173.71,Ariana Grande-34+35-2021
+701,Tate McRae,you broke me first,2021,0.373,0.667,-9.389,0.785,0.05,0.0906,0.0823,124.148,169.27,Tate McRae-you broke me first-2021
+702,Sebastian Yatra,Pareja Del Año,2021,0.622,0.715,-5.102,0.163,0.046,0.0948,0.808,80.015,195.05,Sebastian Yatra-Pareja Del Año-2021

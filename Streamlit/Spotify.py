@@ -7,11 +7,15 @@ import urllib.request
 import pickle
 import warnings
 warnings.filterwarnings('ignore')
+import random
+import spotipy
+from spotipy.oauth2 import SpotifyOAuth
+disableWatchdogWarning = False
 
 st.sidebar.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/spoti.png'))
 
 
-app_mode = st.sidebar.selectbox('Select Page',['Home','Global Prediction', 'Spanish Prediction'])
+app_mode = st.sidebar.selectbox('Select Page',['Home','Global Prediction', 'Spanish Prediction','Playlist'])
 
 if app_mode=='Home':
 
@@ -115,6 +119,16 @@ elif app_mode == 'Spanish Prediction':
     st.write(datos_good[['artist_name','track_name','prediccion']]) 
     y.index=['No Hits', 'Hits']
     st.write(y)
- 
+
+elif app_mode == 'Playlist':
+    links= pd.read_csv(st.file_uploader("Upload your input CSV file", type=["csv"]))
+    links = links['0'].tolist()
+    links_rd = random.sample(links,100)
+    token='BQDJ4BKfvhpLd2a0G2z-noYzp5oo0m6PhUPWHGJu2ppNmgxu5LTKCRDzSFdlDp_1uSYNFGHVRRGc7AUckDDSeEXitFrgNz9sRy047MRFELnC1W8YQZvl5KXbGVy_c26uDyfw6rFMzH9f9UaoLRrsYe3rVYjdF8qVMAbdeIFhydJGBwX0S2UMMHFj1mvu9iq6H6Jn7xqQJzqFeGm4nFOrJoHpgq7sofKSUKpApYzEYQ'
+    sp = spotipy.Spotify(auth=token)
+    sp.user_playlist_add_tracks(user='javi1025', 
+                            playlist_id='48KXGa9uNtJXQsax6Pb6LM',
+                            tracks=links_rd, 
+                            position=None)
 
 

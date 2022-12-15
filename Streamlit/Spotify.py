@@ -10,8 +10,7 @@ warnings.filterwarnings('ignore')
 import random
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-disableWatchdogWarning = False
-
+import matplotlib.pyplot as plt
 st.sidebar.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/spoti.png'))
 
 
@@ -68,29 +67,42 @@ elif app_mode == 'Global Prediction':
     
     HGBT = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/CSV_primeros/HGBT.pkl','rb'))
     st.subheader("Enter your CSV")
-    datos= pd.read_csv(st.file_uploader("Upload your input CSV file", type=["csv"]))
+    
+    datos= st.file_uploader("Upload your input CSV file", type=["csv"])
+
+    if datos is not None:
+        datos1 = pd.read_csv(datos)
+    
+
     #st.write(datos)
 
+        Predecir = st.button('Predecir')
+        if Predecir:
+            pred=HGBT.predict(datos1)
+            #st.write(pred)
+            pred = pd.Series(pred)
+            datos_good['prediccion'] = pred.round(decimals = 0)
+            y = datos_good.prediccion.value_counts()
+            st.subheader("Predicted No hits and hits")
+            datos_good['prediccion'] = datos_good['prediccion'].astype(str)
+            def limpiar_prediccion(column):
+                if '0' in column:
+                    return 'No Hit'
+                else:
+                    return 'Hit'
+            datos_good['prediccion'] = datos_good['prediccion'].apply(limpiar_prediccion)
+            st.write(datos_good[['artist_name','track_name','prediccion']]) 
+            #y = y.astype(str)
+            #y = y.apply(limpiar_prediccion)
+            y.index=['No Hits', 'Hits']
+            st.subheader("Total number of Hits and No Hits")
+            st.write(y)
+           
 
-    st.subheader("Predicted hit")
-    pred=HGBT.predict(datos)
-    #st.write(pred)
-    pred = pd.Series(pred)
-    datos_good['prediccion'] = pred.round(decimals = 0)
-    y = datos_good.prediccion.value_counts()
-    st.subheader("Predicted No hits and hits")
-    datos_good['prediccion'] = datos_good['prediccion'].astype(str)
-    def limpiar_prediccion(column):
-        if '0' in column:
-            return 'No Hit'
-        else:
-            return 'Hit'
-    datos_good['prediccion'] = datos_good['prediccion'].apply(limpiar_prediccion)
-    st.write(datos_good[['artist_name','track_name','prediccion']]) 
-    #y = y.astype(str)
-    #y = y.apply(limpiar_prediccion)
-    y.index=['No Hits', 'Hits']
-    st.write(y)
+            
+
+
+
 
 elif app_mode == 'Spanish Prediction':
     st.title("Prediction of Spanish playlist")
@@ -98,37 +110,51 @@ elif app_mode == 'Spanish Prediction':
     datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/CSV_full/data_week_9DEC_SPAIN.csv')
     GBC = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/CSV_primeros/GBC.pkl','rb'))
     st.subheader("Enter your CSV")
-    datos= pd.read_csv(st.file_uploader("Upload your input CSV file", type=["csv"]))
-    #st.write(datos)
+    datos= st.file_uploader("Upload your input CSV file", type=["csv"])
 
+    if datos is not None:
+        datos1 = pd.read_csv(datos)
+    
+    Predecir = st.button('Predecir')
+    if Predecir:
 
-    st.subheader("Predicted hit")
-    pred=GBC.predict(datos)
-    #st.write(pred)
-    pred = pd.Series(pred)
-    datos_good['prediccion'] = pred.round(decimals = 0)
-    y = datos_good.prediccion.value_counts()
-    st.subheader("Predicted No hits and hits")
-    datos_good['prediccion'] = datos_good['prediccion'].astype(str)
-    def limpiar_prediccion(column):
-        if '0' in column:
-            return 'No Hit'
-        else:
-            return 'Hit'
-    datos_good['prediccion'] = datos_good['prediccion'].apply(limpiar_prediccion)
-    st.write(datos_good[['artist_name','track_name','prediccion']]) 
-    y.index=['No Hits', 'Hits']
-    st.write(y)
+        st.subheader("Predicted hit")
+        pred=GBC.predict(datos1)
+        #st.write(pred)
+        pred = pd.Series(pred)
+        datos_good['prediccion'] = pred.round(decimals = 0)
+        y = datos_good.prediccion.value_counts()
+        st.subheader("Predicted No hits and hits")
+        datos_good['prediccion'] = datos_good['prediccion'].astype(str)
+        def limpiar_prediccion(column):
+            if '0' in column:
+                return 'No Hit'
+            else:
+                return 'Hit'
+        datos_good['prediccion'] = datos_good['prediccion'].apply(limpiar_prediccion)
+        st.write(datos_good[['artist_name','track_name','prediccion']]) 
+        y.index=['No Hits', 'Hits']
+        st.subheader("Total number of Hits and No Hits")
+        st.write(y)
 
 elif app_mode == 'Playlist':
-    links= pd.read_csv(st.file_uploader("Upload your input CSV file", type=["csv"]))
-    links = links['0'].tolist()
-    links_rd = random.sample(links,100)
-    token='BQDJ4BKfvhpLd2a0G2z-noYzp5oo0m6PhUPWHGJu2ppNmgxu5LTKCRDzSFdlDp_1uSYNFGHVRRGc7AUckDDSeEXitFrgNz9sRy047MRFELnC1W8YQZvl5KXbGVy_c26uDyfw6rFMzH9f9UaoLRrsYe3rVYjdF8qVMAbdeIFhydJGBwX0S2UMMHFj1mvu9iq6H6Jn7xqQJzqFeGm4nFOrJoHpgq7sofKSUKpApYzEYQ'
-    sp = spotipy.Spotify(auth=token)
-    sp.user_playlist_add_tracks(user='javi1025', 
-                            playlist_id='48KXGa9uNtJXQsax6Pb6LM',
-                            tracks=links_rd, 
-                            position=None)
+    st.title("Create a random playlist")
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/lista.png'))
+    links= st.file_uploader("Upload your input CSV file", type=["csv"])
+
+    if links is not None:
+        Predecir = st.button('Create Playlist')
+        if Predecir:
+            links1 = pd.read_csv(links)
+            links1.rename(columns = {'0':'ref'}, inplace = True)
+            links2= links1['ref'].tolist()
+            links_rd = random.sample(links2,100)
+            token='BQBVj5sNv3FoSFNA9yXcHqeaDvWmM6eUs6lMXu9ZNy8fdpQWd-WFOHudG4jJKTJG4fCiDqnIhiRxpx2V4p-VLDGoFZFK4bnbBzLGmWsIBmpDyz-NYu29Z8awBMn5_WF9fVV92i1lbiItXq1kNMxqjY43wtmOSdR3O7tZoP0hTlD3hVEprsnZdwUiezTo3mSzp-ReNnKopvL0WuCCqvWJm_irJDaWcPLW_SLp5yE-3g'
+            sp = spotipy.Spotify(auth=token)
+            sp.user_playlist_add_tracks(user='javi1025', 
+                                    playlist_id='06LOxWbjLVzFny6rqD0kfO',
+                                    tracks=links_rd, 
+                                    position=None)
+            st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/QR.png'))
 
 

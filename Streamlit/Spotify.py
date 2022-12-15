@@ -65,7 +65,7 @@ elif app_mode == 'Global Prediction':
 
     datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/streamlit/datos_spotipy_week_1_song.csv')
     
-    HGBT = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/CSV_primeros/HGBT.pkl','rb'))
+    HGBT = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_primeros/HGBT.pkl','rb'))
     st.subheader("Enter your CSV")
     
     datos= st.file_uploader("Upload your input CSV file", type=["csv"])
@@ -106,9 +106,9 @@ elif app_mode == 'Global Prediction':
 
 elif app_mode == 'Spanish Prediction':
     st.title("Prediction of Spanish playlist")
-    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/Novedades_viernes.png'))
-    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/CSV_full/data_week_9DEC_SPAIN.csv')
-    GBC = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/CSV_primeros/GBC.pkl','rb'))
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/img/Novedades_viernes.png'))
+    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_full/data_week_9DEC_SPAIN.csv')
+    GBC = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_primeros/GBC.pkl','rb'))
     st.subheader("Enter your CSV")
     datos= st.file_uploader("Upload your input CSV file", type=["csv"])
 
@@ -139,7 +139,7 @@ elif app_mode == 'Spanish Prediction':
 
 elif app_mode == 'Playlist':
     st.title("Create a random playlist")
-    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/lista.png'))
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/img/lista.png'))
     links= st.file_uploader("Upload your input CSV file", type=["csv"])
 
     if links is not None:

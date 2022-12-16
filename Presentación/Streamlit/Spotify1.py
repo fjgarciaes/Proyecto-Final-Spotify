@@ -27,7 +27,7 @@ if app_mode=='Home':
 
     
 
-    df = pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Data/CSV_primeros/all_songs.csv')
+    df = pd.read_csv('../CSV_primeros/all_songs.csv')
 
     
 
@@ -63,7 +63,7 @@ elif app_mode == 'Global Prediction':
     st.title("Prediction of Global playlist")
     st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/Novedades_global.png'))
 
-    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Data/Viernes/new_songs.csv')
+    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/streamlit/datos_spotipy_week_1_song.csv')
     
     HGBT = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_primeros/HGBT.pkl','rb'))
     st.subheader("Enter your CSV")
@@ -106,8 +106,8 @@ elif app_mode == 'Global Prediction':
 
 elif app_mode == 'Spanish Prediction':
     st.title("Prediction of Spanish playlist")
-    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/Novedades_viernes.png'))
-    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Data/Viernes/new_songs_sp.csv')
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/img/Novedades_viernes.png'))
+    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_full/data_week_9DEC_SPAIN.csv')
     GBC = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_primeros/GBC.pkl','rb'))
     st.subheader("Enter your CSV")
     datos= st.file_uploader("Upload your input CSV file", type=["csv"])
@@ -115,46 +115,46 @@ elif app_mode == 'Spanish Prediction':
     if datos is not None:
         datos1 = pd.read_csv(datos)
     
-        Predecir = st.button('Predecir')
-        if Predecir:
+    Predecir = st.button('Predecir')
+    if Predecir:
 
-            
-            pred=GBC.predict(datos1)
-            #st.write(pred)
-            pred = pd.Series(pred)
-            datos_good['prediccion'] = pred.round(decimals = 0)
-            y = datos_good.prediccion.value_counts()
-            st.subheader("Predicted No hits and hits")
-            datos_good['prediccion'] = datos_good['prediccion'].astype(str)
-            def limpiar_prediccion(column):
-                if '0' in column:
-                    return 'No Hit'
-                else:
-                    return 'Hit'
-            datos_good['prediccion'] = datos_good['prediccion'].apply(limpiar_prediccion)
-            st.write(datos_good[['artist_name','track_name','prediccion']]) 
-            y.index=['No Hits', 'Hits']
-            st.subheader("Total number of Hits and No Hits")
-            st.write(y)
+        st.subheader("Predicted hit")
+        pred=GBC.predict(datos1)
+        #st.write(pred)
+        pred = pd.Series(pred)
+        datos_good['prediccion'] = pred.round(decimals = 0)
+        y = datos_good.prediccion.value_counts()
+        st.subheader("Predicted No hits and hits")
+        datos_good['prediccion'] = datos_good['prediccion'].astype(str)
+        def limpiar_prediccion(column):
+            if '0' in column:
+                return 'No Hit'
+            else:
+                return 'Hit'
+        datos_good['prediccion'] = datos_good['prediccion'].apply(limpiar_prediccion)
+        st.write(datos_good[['artist_name','track_name','prediccion']]) 
+        y.index=['No Hits', 'Hits']
+        st.subheader("Total number of Hits and No Hits")
+        st.write(y)
 
 elif app_mode == 'Playlist':
     st.title("Create a random playlist")
-    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/lista.png'))
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/img/lista.png'))
     links= st.file_uploader("Upload your input CSV file", type=["csv"])
 
     if links is not None:
         Predecir = st.button('Create Playlist')
         if Predecir:
-            #links1 = pd.read_csv(links)
-            #links1.rename(columns = {'0':'ref'}, inplace = True)
-            #links2= links1['ref'].tolist()
-            #links_rd = random.sample(links2,100)
-            #token='BQB-P8-znVcg9epQ2J61R4L7YThfgYJyiQRnBLmMwqXhxlIZck4kGJqYeoJZvlCXn9doZrOOwBo2X0hirXmLLWKNMB1DrMzk9G-6Cultz9ZhVn0pWMjpWBB_w6sz8zcWBWUUpIN8BPA5260L6TZITxljZFLzjZiYiQLe2Vv1InIb9MEk3X8CITCIVS8l5DYrwZtDAe4yzsV2YmoIpAbm9IRnvOiqJOxvou6tLJ6M0Q'            
-            #sp = spotipy.Spotify(auth=token)
-            #sp.user_playlist_add_tracks(user='javi1025', 
-                                    #playlist_id='06LOxWbjLVzFny6rqD0kfO',
-                                    #tracks=links_rd, 
-                                    #position=None)
+            links1 = pd.read_csv(links)
+            links1.rename(columns = {'0':'ref'}, inplace = True)
+            links2= links1['ref'].tolist()
+            links_rd = random.sample(links2,100)
+            token='BQBVj5sNv3FoSFNA9yXcHqeaDvWmM6eUs6lMXu9ZNy8fdpQWd-WFOHudG4jJKTJG4fCiDqnIhiRxpx2V4p-VLDGoFZFK4bnbBzLGmWsIBmpDyz-NYu29Z8awBMn5_WF9fVV92i1lbiItXq1kNMxqjY43wtmOSdR3O7tZoP0hTlD3hVEprsnZdwUiezTo3mSzp-ReNnKopvL0WuCCqvWJm_irJDaWcPLW_SLp5yE-3g'
+            sp = spotipy.Spotify(auth=token)
+            sp.user_playlist_add_tracks(user='javi1025', 
+                                    playlist_id='06LOxWbjLVzFny6rqD0kfO',
+                                    tracks=links_rd, 
+                                    position=None)
             st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/QR.png'))
 
 

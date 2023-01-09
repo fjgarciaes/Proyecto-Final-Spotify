@@ -1,85 +1,93 @@
 # Proyecto-Final-Spotify
 
 
-https://user-images.githubusercontent.com/114060666/211291220-2bd1308b-dafc-486b-934d-8b0698931744.png
-
-ÍNDICE!
+**Index**
 
 
-1. Objetivos 🎯 
-2. Pasos seguidos 📋 
-3. Visualización 💹 
+1. Objectives 🎯 
+2. Process followed 📋 
+3. Visualization 💹 
 4. Machine Learning 🤖 
+5. Streamlit 🌐
+6. Future Steps ➡️
 
-🎯 OBJETIVOS
+🎯 OBJECTIVES
 
-Crear una base de datos con canciones populares a nivel global, en España y canciones que no son populares.
+Create a database with global and Spanish popular and unpopular songs.
 
-Visualizar aquellas variables que son mas importantes para el funcionamiento del modelo.
+Visualize the most important variables for the model to work.
 
-Crear un modelo predictivo para poder determinar si las canciones que nuevas que salen cada semana van a ser hits o no.
+Create a machine learning model to determine whether the songs that come out each week are going to be hits or not.
 
-Crear una aplicacion de Streamlit para poder realizar la prediccion en tiempo real asi como una playlist en Spotify con éxitos.
+Create an app to be able to explore the data, make real-time predictions and create a playlist of random hits. 
 
-📋 PASOS A SEGUIR
+📋 Process followed
 
-1) Extracción
+1) Data extraction.
 
-Se han extraido datos de canciones populares y no populares de Kaggle.
+  Most of the data was extracted using Spotipy and the rest was extracted from Kaggle
 
-Se extraen los datos de las canciones populares de España mediante Spotipy
+2) Data transformation.
 
-Las canciones nuevas de cada semana se extraen también mediante Spotipy
+  Once all the data was extracted and converted into data frames, it was transformed and cleaned as follows:
 
-2) Transformación
+  a) Global and Spanish popular songs Dataframes.
 
-Una vez extraídos los datos y convertidos a dataframes , se  procede a su transformación y limpieza.
+    The columns that are not useful for the analysis are eliminated.
 
-a) Dataframe de canciones populares globales y dataframe de canciones populres en España.
+    The necessary columns are renamed.
 
-Se eliminan las columnas que no son utilies para el análisis.
+    The columns are transformed so that the data is in the required format.
+    
+    A column is created to identify which songs are hits.
 
-Se crea una columna para identificar que las canciones son exitos.
+  b) Unpopular songs Dataframe
 
-Se renombran las columnas necesarias.
+    The same process used for the popular songs dataframes is repeated for this one.
 
-Se transforman las columnas para que los datos esten en el formato requerido.
+    A column is added to indicate that the songs are not hits.
 
+  c) Hit or not Dataframe.
 
-b) Dataframe de canciones no populares.
+    The dataframes of popular songs are concatenated with unpopular songs both globally and for Spain.
 
-Se repite el proceso de transformación que se siguio para los dataframes anteriores 
+  3) Loading data into MySQL
 
-Se añade una columna para indicar que las canciones no son exitos.
+    After saving all the clean dataframes as CSV I proceed to create a new database in MySQL called Spotify.
 
-c) Dataframe hit or not.
+💹 VISUALIZATION
 
-Se concatenan los dataframes de canciones populares con no populares tanto a nivel global como para España
-
-3) Carga de datos en MySQL
-
-Tras guardar todos los dataframes limpios como csv para procedo a crear una nueva base de datos en MySQL llamada Spotify.
-
-💹 VISUALIZACIÓN
-
-Se realiza la visualización de los datos en powerBi, obteniendo un dashboard en el cual se muestran gráficas de las caracteristicas mas importantes.
-
+The data visualization is done using powerBi, obtaining a dashboard in which the most important characteristics are shown in graphs.
 
 🤖 MACHINE LEARNING
 
-Utilizando todas las columnas del dataframe se entrenan 27 modelos de machine learning para conocer con cual se obtiene el mejor resultado:
+Using all the columns of the dataframe, 27 machine learning models are trained in order to know which one gives the best result:
 
-. Predicción nuevos hits Globales:
+1) Prediction of new Global hits:
 
-El modelo que mejor se ajusta para estos datos es HistGradientBoostingClassifier.
+  The best fitting model for this data is HistGradientBoostingClassifier.
 
-Una vez entrenado el modelo se utiliza para predecir cuantas de las canciones nuevas van a ser un hit.
+  Once the model is trained it is used to predict how many of the new songs are going to be a hit.
 
-. Predicción nuevos hits España:
+2) Prediction of new hits Spain:
 
-El modelo que mejor se ajusta para estos datos es GradientBoostingClassifier.
+  The best fitting model for this data is GradientBoostingClassifier.
 
-Se repite el proceso que se realizo para la predicción global
+  The same process as for the global prediction is repeated.
+
+🌐 Streamlit 
+
+A Streamlit application was created in which the data can be observed, predictions can be made and random playlists can be created. 
+
+➡️ Future Steps 
+
+1) Add information about the artists into the dataframes to make the machine learning training process more accurate.
+
+2) Modify the Streamit app to allow users to modify playlists.
+
+3) Add audio playback function in Streanlit 
+
+
 
 
 

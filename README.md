@@ -1,7 +1,7 @@
 # Proyecto-Final-Spotify
 
 
-(https://user-images.githubusercontent.com/114060666/211291220-2bd1308b-dafc-486b-934d-8b0698931744.png)
+https://user-images.githubusercontent.com/114060666/211291220-2bd1308b-dafc-486b-934d-8b0698931744.png
 
 ÍNDICE!
 

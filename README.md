@@ -1,5 +1,7 @@
 # Proyecto-Final-Spotify
 
+![Spotify](https://user-images.githubusercontent.com/114060666/211303123-d4e77169-438f-492e-a23c-500bb2cf0bb5.png)
+
 
 **Index**
 

@@ -1,3 +1,4 @@
+from operator import iconcat
 import streamlit as st
 import pandas as pd
 import pylab as plt
@@ -25,9 +26,7 @@ if app_mode=='Home':
     st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/Global_hits.png'))
 
 
-    
-
-    df = pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Data/CSV_primeros/all_songs.csv')
+    df = pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Hackshow/Dataframe.csv')
 
     
 
@@ -61,9 +60,9 @@ if app_mode=='Home':
 
 elif app_mode == 'Global Prediction':
     st.title("Prediction of Global playlist")
-    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/Novedades_global.png'))
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/prueba.png'))
 
-    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Data/Viernes/new_songs.csv')
+    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Hackshow/new_songs.csv')
     
     HGBT = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_primeros/HGBT.pkl','rb'))
     st.subheader("Enter your CSV")
@@ -106,8 +105,8 @@ elif app_mode == 'Global Prediction':
 
 elif app_mode == 'Spanish Prediction':
     st.title("Prediction of Spanish playlist")
-    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/Novedades_viernes.png'))
-    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Data/Viernes/new_songs_sp.csv')
+    st.image(Image.open('/Users/javi/Desktop/Proyecto-FInal-Spotify/img/pop.png'))
+    datos_good= pd.read_csv('/Users/javi/Desktop/Proyecto-FInal-Spotify/Hackshow/new_songs_sp.csv')
     GBC = pickle.load(open('/Users/javi/Desktop/Proyecto-FInal-Spotify/data/CSV_primeros/GBC.pkl','rb'))
     st.subheader("Enter your CSV")
     datos= st.file_uploader("Upload your input CSV file", type=["csv"])

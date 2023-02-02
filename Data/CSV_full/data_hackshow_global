@@ -1,0 +1,101 @@
+artist_name,track_name,energy,danceability,loudness,acousticness,speechiness,liveness,valence,tempo,duration,links
+Sam Smith,I’m Not Here To Make Friends (feat. Calvin Harris & Jessie Reyez),0.895,0.698,-4.439,0.172,0.0628,0.409,0.838,114.914,229.6,https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM
+ROSALÍA,LLYLM,0.634,0.555,-5.522,0.129,0.273,0.188,0.555,170.228,174.04,https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd
+The Kid LAROI,Love Again,0.398,0.662,-6.691,0.716,0.0275,0.111,0.468,107.001,145.85,https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ
+Ava Max,Ghost,0.931,0.715,-3.548,0.00573,0.0426,0.0549,0.615,119.971,181.65,https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff
+Cordae,Two Tens (feat. Anderson .Paak),0.546,0.603,-7.525,0.194,0.35,0.0783,0.667,87.99,152.37,https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL
+Popcaan,Aboboyaa (feat. Burna Boy),0.833,0.634,-5.1,0.297,0.25,0.367,0.714,96.881,166.8,https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk
+Daniel Caesar,Do You Like Me?,0.407,0.714,-6.806,0.522,0.0422,0.128,0.358,76.978,227.66,https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J
+Lil Yachty,sAy sOMETHINg,0.648,0.593,-7.029,0.0791,0.142,0.0887,0.472,154.027,212.9,https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN
+Rauw Alejandro,PANTIES Y BRASIERES,0.888,0.758,-2.851,0.34,0.0706,0.144,0.408,107.039,197.38,https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY
+Gorillaz,Silent Running (feat. Adeleye Omotayo),0.901,0.659,-3.549,0.0614,0.0359,0.182,0.776,106.997,266.34,https://open.spotify.com/track/5t6VBNWXxcwlrxCjU7ytGg
+P!nk,TRUSTFALL,0.888,0.636,-3.889,0.00162,0.0945,0.147,0.25,122.032,237.2,https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e
+SG Lewis,Oh Laura,0.568,0.789,-5.084,0.0187,0.0568,0.0681,0.899,90.0,216.02,https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0
+Zach Bryan,Dawns (feat. Maggie Rogers),0.441,0.447,-7.658,0.874,0.0456,0.188,0.286,122.811,290.89,https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1
+Stephen Sanchez,Evangeline,0.568,0.469,-7.084,0.0817,0.0305,0.146,0.193,109.172,177.88,https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC
+Chlöe,Pray It Away,0.626,0.611,-5.087,0.337,0.0778,0.115,0.48,100.129,156.07,https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2
+Rae Sremmurd,Sucka Or Sum,0.539,0.828,-7.3,0.205,0.225,0.305,0.68,125.05,189.17,https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P
+EST Gee,IF I STOP NOW,0.656,0.636,-7.123,0.0219,0.344,0.13,0.362,75.962,177.01,https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH
+Sam Smith,Lose You,0.697,0.667,-5.652,0.115,0.0446,0.311,0.497,122.992,190.24,https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9
+Tyler Hubbard,Small Town Me,0.82,0.475,-3.911,0.0334,0.0494,0.113,0.344,83.022,196.73,https://open.spotify.com/track/5XYk13uT6mzwe6P8lSrPdh
+Quinn XCII,Too Late (with AJR),0.622,0.729,-6.931,0.0216,0.087,0.294,0.588,88.966,175.76,https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS
+Samia,Honey,0.507,0.806,-6.43,0.45,0.0428,0.0987,0.788,119.993,203.83,https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9
+Maisie Peters,Body Better,0.781,0.653,-4.092,0.345,0.1,0.365,0.864,118.017,189.49,https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v
+Skrillex,Real Spring,0.776,0.64,-5.293,0.0705,0.0329,0.0909,0.569,156.039,130.06,https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3
+White Reaper,Bozo,0.977,0.26,-3.346,1.99e-06,0.0932,0.35,0.494,175.017,155.04,https://open.spotify.com/track/7pllzZF7apoqG7htbXAQsd
+charlieonnafriday,That's What I Get,0.722,0.814,-5.487,0.33,0.0454,0.0713,0.47,142.959,150.6,https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm
+Luke Combs,Growin' Up and Gettin' Old,0.6,0.511,-5.699,0.16,0.0268,0.114,0.269,146.051,233.67,https://open.spotify.com/track/6DdPacpAdYkxV8MCzsjaXu
+Elle King,Lucky,0.851,0.537,-4.591,0.0329,0.0443,0.131,0.155,129.022,194.43,https://open.spotify.com/track/6DE1vkPkMn2I77360IBb8t
+Ruel,MUST BE NICE,0.338,0.539,-8.693,0.911,0.0299,0.106,0.247,99.786,175.92,https://open.spotify.com/track/7FGDL2pk8qcJDAvn4BF3Al
+Charlotte Sands,Alright,0.466,0.492,-6.951,0.179,0.0677,0.119,0.268,183.997,202.52,https://open.spotify.com/track/6ZBr8E9XczoqgMRXyXUe6b
+KSI,Voices (feat. Oliver Tree),0.549,0.729,-5.332,0.0865,0.0292,0.0951,0.624,95.012,188.58,https://open.spotify.com/track/2LWJ0zNei0z2WjHHwSNUkx
+Sam Smith,Who We Love (feat. Ed Sheeran),0.289,0.568,-8.973,0.858,0.0395,0.0943,0.338,140.122,162.39,https://open.spotify.com/track/16axxBqfSvis8mjhrLHWeH
+Aya Nakamura,T'as peur,0.565,0.755,-5.595,0.113,0.273,0.111,0.407,177.941,215.28,https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj
+Q,LUV (I KNOW I WANT THIS FOR REAL),0.754,0.712,-7.044,0.00443,0.041,0.168,0.659,122.003,193.4,https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21
+Medium Build,Gimme Back My Soul,0.643,0.75,-6.323,0.0583,0.0324,0.382,0.666,123.941,196.0,https://open.spotify.com/track/0FuxavKPV5DXap0xk0TRIS
+khai dreams,Not Enough,0.795,0.633,-5.136,0.0492,0.0522,0.0847,0.929,166.012,164.95,https://open.spotify.com/track/1RiLntZOALVZfwFnsC3JlF
+Zara Larsson,Can't Tame Her,0.915,0.584,-3.199,0.00686,0.11,0.098,0.57,181.882,196.94,https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz
+Fall Out Boy,Heartbreak Feels So Good,0.779,0.514,-5.136,0.00314,0.0417,0.0635,0.313,91.089,217.54,https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r
+Mau P,Gimme That Bounce,0.96,0.801,-5.534,0.0284,0.264,0.0985,0.101,126.045,217.41,https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko
+SleazyWorld Go,Robbers and Villains,0.623,0.764,-6.734,0.0707,0.305,0.0856,0.528,81.01,107.99,https://open.spotify.com/track/5ZhrQbLQU0ALDslxXqs3yl
+Zack Bia,Hardcore (feat. Don Toliver),0.535,0.716,-9.204,0.107,0.0837,0.19,0.308,129.086,218.94,https://open.spotify.com/track/7KGxiUpYciBYO4QyG7qq28
+Paty B,ALERGICA,0.87,0.607,-4.289,0.115,0.0471,0.173,0.764,167.001,185.39,https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy
+Peso Pluma,PRC,0.826,0.784,-6.34,0.0965,0.0538,0.123,0.893,138.078,184.07,https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl
+Sans Soucis,Merchants,0.564,0.698,-8.721,0.0467,0.0277,0.18,0.384,117.025,248.9,https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd
+Alexander 23,How To Drive,0.232,0.465,-14.004,0.884,0.0682,0.137,0.253,77.313,219.82,https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm
+Rita Ora,You Only Love Me,0.727,0.67,-5.477,0.277,0.0689,0.52,0.412,110.151,150.01,https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2
+Cheat Codes,Something’s Coming,0.825,0.514,-4.452,0.111,0.0748,0.333,0.411,119.985,173.07,https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx
+sombr,weak,0.17,0.182,-16.218,0.866,0.0371,0.0787,0.0397,81.962,238.83,https://open.spotify.com/track/1ofVfjaqv1taQ7xsmcYjZc
+midwxst,Tally (with Denzel Curry),0.869,0.714,-2.611,0.0414,0.0862,0.748,0.614,122.044,147.75,https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo
+PVRIS,GODDESS,0.848,0.709,-4.671,0.0145,0.0778,0.0574,0.845,120.029,152.13,https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In
+XG,SHOOTING STAR,0.712,0.625,-5.996,0.0229,0.0539,0.252,0.398,163.015,203.56,https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV
+slowthai,Selfish,0.839,0.358,-5.342,0.00031,0.203,0.101,0.211,84.85,192.72,https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9
+Pheelz,Stand By You,0.678,0.729,-5.745,0.328,0.0897,0.096,0.816,164.017,175.79,https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96
+Riovaz,U Neva,0.492,0.849,-8.165,0.13,0.307,0.0934,0.479,134.912,142.25,https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06
+Vintage Culture,If I Live Forever,0.871,0.582,-6.202,0.00476,0.0433,0.138,0.316,123.004,279.48,https://open.spotify.com/track/2BUF674QTAA8cL6YaBX3rd
+Cochise,LONG WAY,0.563,0.736,-8.678,0.0309,0.311,0.305,0.222,150.084,129.9,https://open.spotify.com/track/23PF7wjGrkCQC0Qvy13myD
+Rich Brian,Sundance Freestyle,0.758,0.721,-4.464,0.301,0.189,0.132,0.749,108.912,110.09,https://open.spotify.com/track/0M4PHkYu3loA8rtjrHq5Ym
+Eric Bellinger,Decide,0.504,0.445,-8.661,0.214,0.268,0.144,0.524,174.99,158.18,https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9
+Christian Nodal,Por el Resto de Tu Vida,0.662,0.781,-3.825,0.355,0.0336,0.161,0.686,91.999,197.48,https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y
+JOSEPH,Nervous System,0.739,0.713,-4.635,0.327,0.0443,0.192,0.646,118.982,157.4,https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB
+Cole Swindell,Drinkaby,0.918,0.593,-2.985,0.00413,0.0671,0.387,0.872,123.941,182.89,https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd
+dee holt,Better,0.802,0.723,-8.277,0.172,0.0271,0.119,0.962,135.022,122.67,https://open.spotify.com/track/6iYfq90woQJ1kxEMxYbLeH
+King Tuff,How I Love,0.521,0.649,-7.224,0.0508,0.0253,0.161,0.649,77.479,288.03,https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8
+Bas,Diamonds,0.58,0.61,-6.37,0.524,0.0622,0.0745,0.413,76.504,211.09,https://open.spotify.com/track/4D3hcHpsFsiQFBNIKYgjui
+Bonobo,Fold,0.861,0.792,-6.838,0.0472,0.0476,0.107,0.0888,127.999,335.38,https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG
+TOMORROW X TOGETHER,Sugar Rush Ride,0.893,0.712,-3.995,0.00788,0.0851,0.169,0.828,125.022,186.57,https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs
+Knock2,Rock Ur World,0.916,0.661,-3.722,0.12,0.0675,0.339,0.28,125.965,281.07,https://open.spotify.com/track/5PkWhNfVEz2O9n8b6cQFMw
+Kayla Rae,Blue,0.508,0.817,-7.207,0.235,0.0873,0.127,0.589,88.019,166.89,https://open.spotify.com/track/2YSpZDK4tYNy9AS3rKDTZl
+Da' T.R.U.T.H.,Grey Hair,0.511,0.352,-6.709,0.258,0.116,0.074,0.291,46.641,253.71,https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq
+Tom Grennan,Here,0.681,0.522,-5.073,0.0791,0.0462,0.194,0.343,120.469,195.14,https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT
+Waterparks,REAL SUPER DARK,0.884,0.364,-5.21,0.00632,0.177,0.828,0.506,140.061,149.2,https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3
+Daisy Jones & The Six,Regret Me,0.876,0.489,-3.598,0.00588,0.0437,0.34,0.761,122.938,196.08,https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK
+Kimbra,foolish thinking,0.176,0.416,-14.857,0.917,0.0366,0.104,0.307,124.814,353.02,https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv
+Blondshell,Joiner,0.721,0.598,-6.275,0.000651,0.0349,0.113,0.196,125.988,239.68,https://open.spotify.com/track/1y19yprweVojkuEr954I0G
+quinnie,flounder,0.762,0.565,-5.652,0.0169,0.0377,0.111,0.831,162.076,219.37,https://open.spotify.com/track/54DRaiiudcUoUARrKYg12p
+The Arcs,A Man Will Do Wrong,0.521,0.546,-7.758,0.54,0.032,0.111,0.561,83.124,257.17,https://open.spotify.com/track/1vAI1IqOPMyMB0y6dzK4KB
+Aly & AJ,Baby Lay Your Head Down,0.898,0.569,-5.513,0.00714,0.0308,0.169,0.714,119.993,224.0,https://open.spotify.com/track/5fbnIAZDVlcPfKOnYeUn1d
+joan,nervous,0.496,0.92,-7.93,0.128,0.0819,0.25,0.734,109.979,178.93,https://open.spotify.com/track/7gacDtNNBGmV4D1ZzjSsHJ
+Pony Bradshaw,"Go Down, Appalachia",0.486,0.678,-7.847,0.411,0.0254,0.173,0.371,105.023,190.03,https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h
+Krooked Kings,Sick of Being Young,0.77,0.534,-8.442,0.00158,0.0468,0.155,0.292,150.109,179.3,https://open.spotify.com/track/0B2K9f0kVANUarmZNHcTLw
+Kevin Ross,Look My Way,0.839,0.715,-4.334,0.0863,0.162,0.0764,0.565,80.036,174.0,https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R
+TEEN BLUSH,Pity Sex,0.857,0.716,-7.258,0.00455,0.0802,0.305,0.581,125.046,159.38,https://open.spotify.com/track/2n9oB3ftDuSv6mEtDWfU3R
+Frost Children,FLATLINE,0.507,0.853,-7.263,0.0135,0.395,0.1,0.611,128.011,225.88,https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj
+Alice Longyu Gao,Hëłlœ Kįttÿ,0.921,0.599,-4.882,0.012,0.06,0.0418,0.864,165.003,166.73,https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI
+Mozzy,Every Night (with Baby Money),0.718,0.806,-7.66,0.00938,0.373,0.112,0.46,173.044,130.31,https://open.spotify.com/track/7q1pTqYaDoDiRVIoejwaI9
+Mr Eazi,Werser,0.628,0.847,-9.257,0.0422,0.0564,0.0792,0.631,111.998,248.7,https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16
+London Brew,Miles Chases New Voodoo In The Church - Single Edit,0.9,0.58,-7.979,0.0194,0.105,0.176,0.378,133.799,194.61,https://open.spotify.com/track/6yRAQX1d91AQEcwwYXsCfb
+tana,hope you feel the same,0.291,0.765,-9.879,0.482,0.0385,0.0863,0.498,124.48,131.0,https://open.spotify.com/track/2AYehN2rpEkGi7vMSfP8Rn
+WanMor,Mine,0.715,0.692,-4.541,0.0175,0.0411,0.0894,0.65,147.86,222.56,https://open.spotify.com/track/2iNGlAHyuZW7J7yUXZtHUp
+Cathedral Bells,Clinging to the Ground,0.914,0.463,-2.474,0.000251,0.0415,0.108,0.583,130.001,239.5,https://open.spotify.com/track/4o0nUiJQ1o8iW2fuz8l1Ys
+VIC MENSA,"STRAWBERRY LOUIS VUITTON (Ft. Thundercat, Maeta)",0.812,0.383,-2.836,0.345,0.204,0.096,0.578,75.447,158.42,https://open.spotify.com/track/2K81yLG5kx2uKqT4PZmTXp
+SAINt JHN,You Laughed at Me,0.457,0.424,-3.385,0.555,0.035,0.143,0.159,87.922,190.56,https://open.spotify.com/track/1xsLAkfPLX5FVjU9J0A0Hm
+Tyla,Been Thinking,0.933,0.817,-5.55,0.0998,0.0403,0.107,0.687,115.485,187.28,https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz
+Black Caviar,Running For Cover,0.883,0.798,-3.833,0.0653,0.147,0.133,0.666,110.02,159.82,https://open.spotify.com/track/1YmJBGtzz7BsvyvekfkRzz
+Lady Moon,Wild Geese,0.0941,0.614,-14.614,0.934,0.035,0.12,0.216,119.874,223.95,https://open.spotify.com/track/3imX82nLoGdVxpUaj1tr3O
+Dave Matthews Band,Madman's Eyes,0.807,0.558,-7.164,0.244,0.0712,0.0679,0.348,135.07,288.71,https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1
+Ray Vaughn,Sandcastles,0.701,0.802,-5.564,0.0341,0.214,0.205,0.476,135.045,170.66,https://open.spotify.com/track/4Pbygk2v96q46GcpkFXsPy
+ghost orchard,all in,0.498,0.716,-6.643,0.719,0.156,0.107,0.521,84.252,83.13,https://open.spotify.com/track/58tzJQpMWgsPaWmSypQ2AN
+Prentiss,i tried,0.568,0.399,-9.813,0.428,0.119,0.244,0.265,119.978,220.04,https://open.spotify.com/track/1lCm0JDZgZ2gyoJ6Mqi3OF
+Red Leather,DAKOTA,0.723,0.626,-4.464,0.148,0.0356,0.0695,0.592,173.016,166.22,https://open.spotify.com/track/5WXlPR87hReTmOBHenwNFv
+BAYBE,Dinner For One,0.501,0.57,-6.93,0.253,0.0536,0.146,0.463,183.863,143.64,https://open.spotify.com/track/1otdfx71wVb8TXgdkbYa8v
